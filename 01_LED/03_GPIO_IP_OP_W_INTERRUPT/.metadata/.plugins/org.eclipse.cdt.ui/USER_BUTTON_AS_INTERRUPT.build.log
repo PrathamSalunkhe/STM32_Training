@@ -1,0 +1,10 @@
+19:09:13 **** Incremental Build of configuration Debug for project USER_BUTTON_AS_INTERRUPT ****
+make -j4 all 
+arm-none-eabi-size   USER_BUTTON_AS_INTERRUPT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6504	     20	   1572	   8096	   1fa0	USER_BUTTON_AS_INTERRUPT.elf
+Finished building: default.size.stdout
+ 
+
+19:09:13 Build Finished. 0 errors, 0 warnings. (took 448ms)
+

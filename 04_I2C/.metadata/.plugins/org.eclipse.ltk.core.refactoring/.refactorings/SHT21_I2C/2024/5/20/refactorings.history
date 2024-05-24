@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SHT21_I2C/Drivers/Componenet&apos; to &apos;component&apos;" description="Rename resource &apos;Componenet&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Drivers/Componenet" name="component" stamp="1715857905661" updateReferences="true"/>
+</session>

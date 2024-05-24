@@ -1,0 +1,10 @@
+09:57:09 **** Build of configuration Debug for project RTC_01 ****
+make -j4 all 
+arm-none-eabi-size   RTC_01.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18468	    120	   1784	  20372	   4f94	RTC_01.elf
+Finished building: default.size.stdout
+ 
+
+09:57:10 Build Finished. 0 errors, 0 warnings. (took 512ms)
+

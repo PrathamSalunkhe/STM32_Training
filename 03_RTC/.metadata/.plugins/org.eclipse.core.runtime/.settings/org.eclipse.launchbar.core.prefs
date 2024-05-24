@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time-Date_withAlarm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time_Date_withAlarm
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_01/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_01/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time-Date_withAlarm\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time-Date_withAlarm\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time_Date_withAlarm/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:RTC_Time-Date_withAlarm\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:RTC_Time-Date_withAlarm\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

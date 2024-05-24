@@ -1,0 +1,10 @@
+13:36:19 **** Incremental Build of configuration Debug for project USER_BUTTON_AS_INPUT ****
+make -j4 all 
+arm-none-eabi-size   USER_BUTTON_AS_INPUT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6316	     20	   1572	   7908	   1ee4	USER_BUTTON_AS_INPUT.elf
+Finished building: default.size.stdout
+ 
+
+13:36:19 Build Finished. 0 errors, 0 warnings. (took 432ms)
+

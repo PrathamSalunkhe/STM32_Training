@@ -1,0 +1,10 @@
+main.c:78:5:main	1
+main.c:132:6:SystemClock_Config	4
+main.c:187:13:MX_LPUART1_UART_Init	2
+main.c:221:13:MX_RTC_Init	2
+main.c:256:13:MX_GPIO_Init	1
+main.c:285:6:set_time	3
+main.c:314:6:set_alarm	2
+main.c:338:6:get_time	1
+main.c:354:6:HAL_RTC_AlarmAEventCallback	1
+main.c:366:6:Error_Handler	1

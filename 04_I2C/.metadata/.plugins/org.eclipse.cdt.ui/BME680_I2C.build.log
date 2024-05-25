@@ -1,0 +1,10 @@
+12:22:22 **** Incremental Build of configuration Debug for project BME680_I2C ****
+make -j4 all 
+arm-none-eabi-size   BME680_I2C.elf 
+   text	   data	    bss	    dec	    hex	filename
+  50636	    508	   2028	  53172	   cfb4	BME680_I2C.elf
+Finished building: default.size.stdout
+ 
+
+12:22:22 Build Finished. 0 errors, 0 warnings. (took 447ms)
+

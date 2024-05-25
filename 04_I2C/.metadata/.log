@@ -101,3 +101,41 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-05-16 17:42:07.083
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-05-24 14:30:53.732 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-05-24 14:31:09.159
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-05-24 14:31:19.000
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-05-24 14:31:19.004
+!MESSAGE Log4j2 initialized with config file /home/dnk066/Pratham/STM32_Training/Workspace/04_I2C/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-05-24 14:31:33.869
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-05-24 14:34:09.200
+!MESSAGE Indexed 'BME680_I2C' (21 sources, 80 headers) in 12.7 sec: 4,981 declarations; 24,052 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0069%)
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2024-05-24 14:36:05.570
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.NullPointerException
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:952)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-05-24 18:16:10.400
+!MESSAGE Indexed 'BME680_I2C' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-05-24 18:16:20.575
+!MESSAGE Indexed 'BME680_I2C' (22 sources, 80 headers) in 5.48 sec: 5,001 declarations; 24,443 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0068%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-05-25 10:05:07.870
+!MESSAGE Indexed 'BME680_I2C' (27 sources, 86 headers) in 3.36 sec: 6,861 declarations; 43,427 references; 2 unresolved inclusions; 1 syntax errors; 83 unresolved names (0.16%)

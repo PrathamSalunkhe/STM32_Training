@@ -1,0 +1,10 @@
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:58:8:bme68x_start	16	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:93:8:bme68x_single_measure	16	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:110:22:bme68x_i2c_write	48	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:122:22:bme68x_i2c_read	48	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:134:6:bme68x_delay_us	16	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:139:8:bme68x_interface_init	24	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:193:6:bme68x_GetGasReference	16	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:206:8:bme68x_GetHumidityScore	24	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:223:8:bme68x_GetGasScore	32	static
+../Drivers/BSP/Component/bme680/bme68x_read_write.c:236:7:bme68x_iaq	24	static

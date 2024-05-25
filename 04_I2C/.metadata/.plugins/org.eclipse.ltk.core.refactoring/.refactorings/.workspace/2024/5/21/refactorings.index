@@ -1,0 +1,5 @@
+1716554696645	Delete resource 'BME680_I2C'
+1716556143904	Delete resource 'BME680_I2C/Drivers/BSP/Component'
+1716612847661	Delete resource 'BME680_I2C/Core/Inc/bme68x_read_write.h'
+1716612853384	Delete resource 'BME680_I2C/Core/Inc/bme68x_defs.h'
+1716612859887	Delete resource 'BME680_I2C/Core/Src/bme68x_read_write.c'

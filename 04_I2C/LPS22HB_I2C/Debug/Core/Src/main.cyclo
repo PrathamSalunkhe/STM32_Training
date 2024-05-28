@@ -1,0 +1,12 @@
+main.c:86:5:main	4
+main.c:185:6:SystemClock_Config	4
+main.c:230:13:MX_I2C1_Init	4
+main.c:278:13:MX_LPUART1_UART_Init	2
+main.c:312:13:MX_GPIO_Init	1
+main.c:328:6:I2C_Scanner	4
+main.c:367:16:platform_write	1
+main.c:394:16:platform_read	1
+main.c:419:13:tx_com	1
+main.c:436:13:platform_delay	1
+main.c:448:13:platform_init	1
+main.c:464:6:Error_Handler	1

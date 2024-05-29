@@ -1,4 +1,4 @@
-13:53:53 **** Build of configuration Debug for project 03_SPI_Tx_Rx_DMA ****
+17:54:59 **** Build of configuration Debug for project 03_SPI_Tx_Rx_DMA ****
 make -j4 all 
 arm-none-eabi-gcc "../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L4A6xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.d" -MT"Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.o"
 arm-none-eabi-gcc "../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L4A6xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.d" -MT"Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.o"
@@ -32,15 +32,15 @@ Finished building target: 03_SPI_Tx_Rx_DMA.elf
 arm-none-eabi-size   03_SPI_Tx_Rx_DMA.elf 
 arm-none-eabi-objdump -h -S  03_SPI_Tx_Rx_DMA.elf  > "03_SPI_Tx_Rx_DMA.list"
    text	   data	    bss	    dec	    hex	filename
-  16532	     32	   1960	  18524	   485c	03_SPI_Tx_Rx_DMA.elf
+  17464	     20	   2460	  19944	   4de8	03_SPI_Tx_Rx_DMA.elf
 Finished building: default.size.stdout
  
 Finished building: 03_SPI_Tx_Rx_DMA.list
  
-13:54:03 **** Incremental Build of configuration Debug for project 03_SPI_Tx_Rx_DMA ****
+17:55:12 **** Incremental Build of configuration Debug for project 03_SPI_Tx_Rx_DMA ****
 make -j4 all 
 arm-none-eabi-size   03_SPI_Tx_Rx_DMA.elf 
    text	   data	    bss	    dec	    hex	filename
-  16532	     32	   1960	  18524	   485c	03_SPI_Tx_Rx_DMA.elf
+  17464	     20	   2460	  19944	   4de8	03_SPI_Tx_Rx_DMA.elf
 Finished building: default.size.stdout
  

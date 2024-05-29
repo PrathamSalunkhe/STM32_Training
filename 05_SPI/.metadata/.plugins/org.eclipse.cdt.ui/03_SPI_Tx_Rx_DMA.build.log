@@ -1,10 +1,10 @@
-13:54:03 **** Incremental Build of configuration Debug for project 03_SPI_Tx_Rx_DMA ****
+17:55:12 **** Incremental Build of configuration Debug for project 03_SPI_Tx_Rx_DMA ****
 make -j4 all 
 arm-none-eabi-size   03_SPI_Tx_Rx_DMA.elf 
    text	   data	    bss	    dec	    hex	filename
-  16532	     32	   1960	  18524	   485c	03_SPI_Tx_Rx_DMA.elf
+  17464	     20	   2460	  19944	   4de8	03_SPI_Tx_Rx_DMA.elf
 Finished building: default.size.stdout
  
 
-13:54:03 Build Finished. 0 errors, 0 warnings. (took 560ms)
+17:55:12 Build Finished. 0 errors, 0 warnings. (took 441ms)
 

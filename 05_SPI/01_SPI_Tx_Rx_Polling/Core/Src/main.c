@@ -21,7 +21,8 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "stdio.h"
+#include "string.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -37,6 +38,8 @@
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
 
+#define BUFFER_SIZE 256
+
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
@@ -45,8 +48,11 @@ UART_HandleTypeDef hlpuart1;
 SPI_HandleTypeDef hspi1;
 
 /* USER CODE BEGIN PV */
-uint8_t buffer_tx[10] = {34,78,89,65,67,90,35,56,18,29};
-uint8_t buffer_rx[10];
+//uint8_t buffer_tx[10] = {97,76,65,56,87,58,85,69,66,84};
+
+uint8_t buffer_rx[BUFFER_SIZE];
+uint8_t buffer_print[BUFFER_SIZE];
+
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -95,8 +101,6 @@ int main(void)
   MX_SPI1_Init();
   /* USER CODE BEGIN 2 */
 
-  HAL_SPI_TransmitReceive(&hspi1, buffer_tx, buffer_rx, 10, 100);
-
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -106,6 +110,48 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+
+		// Clear the buffers
+		memset(buffer_rx, 0, BUFFER_SIZE);
+		memset(buffer_print, 0, BUFFER_SIZE);
+
+		// Variable to track the number of received bytes
+		uint16_t received_length = 0;
+
+		// Receive data through UART until newline character or buffer full
+		while (received_length < BUFFER_SIZE - 1) {
+			uint8_t ch;
+			HAL_StatusTypeDef status = HAL_UART_Receive(&hlpuart1, &ch, 1,
+					HAL_MAX_DELAY);
+
+			if (status == HAL_OK) {
+				buffer_rx[received_length++] = ch;
+
+				// Break if newline character is received
+				if (ch == '\n') {
+					break;
+				}
+			}
+		}
+
+		// Ensure the buffer is null-terminated
+		buffer_rx[received_length] = '\0';
+
+		if (received_length > 0) {
+			// Transmit and receive data through SPI
+			HAL_SPI_TransmitReceive(&hspi1, buffer_rx, buffer_print,
+					received_length, HAL_MAX_DELAY);
+
+			// Transmit the received SPI data through UART
+			HAL_UART_Transmit(&hlpuart1, buffer_print, received_length,
+					HAL_MAX_DELAY);
+//			printf("\r\n");
+			// Clear the buffers
+			memset(buffer_rx, 0, BUFFER_SIZE);
+			memset(buffer_print, 0, BUFFER_SIZE);
+		}
+
+//		HAL_Delay(1000);
   }
   /* USER CODE END 3 */
 }

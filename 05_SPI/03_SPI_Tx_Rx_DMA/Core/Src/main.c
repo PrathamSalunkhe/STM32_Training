@@ -21,7 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "string.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -36,7 +36,7 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-
+#define BUFFER_SIZE 256
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
@@ -47,9 +47,14 @@ DMA_HandleTypeDef hdma_spi1_tx;
 DMA_HandleTypeDef hdma_spi1_rx;
 
 /* USER CODE BEGIN PV */
-uint8_t buffer_tx[10] = {70,71,72,73,74,75,76,77,78,79};
-uint8_t buffer_rx[10];
-uint8_t flag = 0;
+//uint8_t buffer_tx[10] = {70,71,72,73,74,75,76,77,78,79};
+uint8_t buffer_rx[BUFFER_SIZE];
+uint8_t buffer_print[BUFFER_SIZE];
+volatile uint8_t spi_cplt = 0;
+
+// Variable to track the number of received bytes
+volatile uint16_t received_length = 0;
+
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -100,7 +105,7 @@ int main(void)
   MX_LPUART1_UART_Init();
   /* USER CODE BEGIN 2 */
 
-  HAL_SPI_TransmitReceive_DMA(&hspi1, buffer_tx, buffer_rx, 10);
+//  HAL_SPI_TransmitReceive_DMA(&hspi1, buffer_tx, buffer_rx, 10);
 
   /* USER CODE END 2 */
 
@@ -111,16 +116,39 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  if(flag == 1)
-	  {
-		  HAL_GPIO_WritePin(BSP_USER_LED_GPIO_Port, BSP_USER_LED_Pin, GPIO_PIN_SET);
-		  HAL_Delay(3000);
-		  flag = 0;
-	  }
-	  else
-	  {
-		  HAL_GPIO_WritePin(BSP_USER_LED_GPIO_Port, BSP_USER_LED_Pin, GPIO_PIN_RESET);
-	  }
+
+		// Clear the buffers
+		memset(buffer_rx, 0, BUFFER_SIZE);
+		memset(buffer_print, 0, BUFFER_SIZE);
+		received_length = 0;
+
+		// Receive data through UART (blocking mode) until newline character
+		while (1)
+		{
+			uint8_t received_byte;
+			HAL_StatusTypeDef status = HAL_UART_Receive(&hlpuart1, &received_byte, 1, HAL_MAX_DELAY);
+
+			if (status == HAL_OK)
+			{
+				buffer_rx[received_length++] = received_byte;
+
+				// Break on newline character or if buffer is full
+				if (received_byte == '\n' || received_length >= BUFFER_SIZE)
+				{
+					break;
+				}
+			}
+		}
+
+		// Transmit and receive data through SPI in interrupt mode
+		spi_cplt = 0;
+		HAL_SPI_TransmitReceive_DMA(&hspi1, buffer_rx, buffer_print, received_length);
+
+		// Wait until SPI communication is done
+		while (!spi_cplt) {
+			// Optionally, add a timeout here to avoid an infinite loop
+			HAL_Delay(1);
+		}
   }
   /* USER CODE END 3 */
 }
@@ -296,8 +324,17 @@ static void MX_GPIO_Init(void)
 /* USER CODE BEGIN 4 */
 void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef *hspi)
 {
-//	while(1);
-	flag = 1;
+    if (hspi->Instance == SPI1)
+    {
+        spi_cplt = 1; // Signal that SPI communication is done
+    }
+	HAL_GPIO_TogglePin(BSP_USER_LED_GPIO_Port, BSP_USER_LED_Pin);
+//	HAL_Delay(1000);
+	// Transmit the received SPI data through UART
+	HAL_UART_Transmit(&hlpuart1, buffer_print, received_length, HAL_MAX_DELAY);
+	// Clear the buffers
+	memset(buffer_rx, 0, BUFFER_SIZE);
+	memset(buffer_print, 0, BUFFER_SIZE);
 }
 /* USER CODE END 4 */
 

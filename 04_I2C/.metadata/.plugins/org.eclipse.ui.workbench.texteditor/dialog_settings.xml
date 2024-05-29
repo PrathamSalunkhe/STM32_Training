@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="raw"/>
+		<list key="findhistory">
+			<item value="raw"/>
+			<item value="pout"/>
+			<item value="LPS22HB_I2C_ADD_H"/>
+			<item value="LPS22HB_I2C_ADD_L"/>
+			<item value="BME680_FLOAT_POINT_COMPENSATION"/>
+			<item value="bme680_dev"/>
+			<item value="user_delay_ms(meas_period); /* Delay till the measurement is ready */&#x0A;&#x0A;        rslt = bme680_get_sensor_data(&amp;data, &amp;gas_sensor);&#x0A;&#x0A;        printf(&quot;T: %.2f degC, P: %.2f hPa, H %.2f %%rH &quot;, data.temperature / 100.0f,&#x0A;            data.pressure / 100.0f, data.humidity / 1000.0f );&#x0A;        /* Avoid using measurements from an unstable heating setup */&#x0A;        if(data.status &amp; BME680_GASM_VALID_MSK)&#x0A;            printf(&quot;, G: %d ohms&quot;, data.gas_resistance);&#x0A;&#x0A;        printf(&quot;\r\n&quot;);&#x0A;&#x0A;        /* Trigger the next measurement if you would like to read data out continuously */&#x0A;        if (gas_sensor.power_mode == BME680_FORCED_MODE) {&#x0A;            rslt = bme680_set_sensor_mode(&amp;gas_sensor);&#x0A;        }"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="735"/>
+		<item key="DIALOG_Y_ORIGIN" value="512"/>
+		<item key="DIALOG_WIDTH" value="366"/>
+		<item key="DIALOG_HEIGHT" value="474"/>
+		<item key="DIALOG_FONT_NAME" value="1|Roboto|12.0|0|GTK|1|"/>
+	</section>
+</section>

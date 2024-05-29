@@ -2,9 +2,12 @@ LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
 activeLaunchTarget=null\:---
-configDescList=
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:03_SPI_Tx_Rx_DMA Debug
 eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:02_SPI_Tx_Rx_IT\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:02_SPI_Tx_Rx_IT\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:03_SPI_Tx_Rx_DMA\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

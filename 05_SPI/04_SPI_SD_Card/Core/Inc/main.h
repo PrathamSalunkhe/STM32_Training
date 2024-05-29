@@ -57,6 +57,10 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define BSP_DEBUG_UART_TX_Pin GPIO_PIN_7
+#define BSP_DEBUG_UART_TX_GPIO_Port GPIOG
+#define BSP_DEBUG_UART_RX_Pin GPIO_PIN_8
+#define BSP_DEBUG_UART_RX_GPIO_Port GPIOG
 
 /* USER CODE BEGIN Private defines */
 

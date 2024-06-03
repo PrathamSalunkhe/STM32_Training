@@ -1,0 +1,329 @@
+2024-05-31 10:06:50,903 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 828441200 Bytes (1062207488)
+2024-05-31 10:06:52,144 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 864092784 Bytes (1062207488)
+2024-05-31 10:06:54,896 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 582239472 Bytes (1062207488)
+2024-05-31 10:06:55,402 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-31 10:06:55,402 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-31 10:06:55,402 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-31 10:06:55,402 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-31 10:06:55,402 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-31 10:06:55,402 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-31 10:06:55,403 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-31 10:06:55,404 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-31 10:06:55,709 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-31 10:06:55,863 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-31 10:06:55,902 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-31 10:06:56,004 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-31 10:06:56,188 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:06:56,190 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:06:56,293 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:06:56,295 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:06:56,383 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:06:56,385 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:06:56,474 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:06:56,476 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:06:56,563 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:06:56,569 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:06:56,572 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:06:57,118 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:06:57,120 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:06:57,231 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:06:57,233 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:06:57,321 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:06:57,322 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:06:57,409 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:06:57,412 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-31 10:06:57,514 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-31 10:06:57,517 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-31 10:06:57,609 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-31 10:06:57,611 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-31 10:06:57,704 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-31 10:06:57,706 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-31 10:06:57,807 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-31 10:06:57,809 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-31 10:06:57,909 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-31 10:06:57,921 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-31 10:06:58,173 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-31 10:06:58,175 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-31 10:06:58,262 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-31 10:06:58,270 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-31 10:06:58,407 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-31 10:06:58,410 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-31 10:06:58,497 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-31 10:06:58,501 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-31 10:06:58,600 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-31 10:06:58,621 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-31 10:06:58,746 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-31 10:06:58,750 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-31 10:06:58,897 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-31 10:07:00,536 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 256mS.
+2024-05-31 10:07:00,544 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-31 10:07:01,370 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-31 10:07:06,012 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 5468mS.
+2024-05-31 10:07:06,013 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-31 10:07:06,014 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-31 10:18:51,551 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 688642112 Bytes (1066401792)
+2024-05-31 10:18:53,155 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 426443312 Bytes (1066401792)
+2024-05-31 10:18:57,065 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 430510584 Bytes (1066401792)
+2024-05-31 10:18:57,522 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-31 10:18:57,523 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-31 10:18:57,523 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-31 10:18:57,523 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-31 10:18:57,523 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-31 10:18:57,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-31 10:18:57,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-31 10:18:57,524 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-31 10:18:57,902 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-31 10:18:58,025 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-31 10:18:58,065 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-31 10:18:58,162 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-31 10:18:58,467 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:18:58,471 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:18:58,590 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:18:58,591 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:18:58,712 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:18:58,713 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:18:58,811 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:18:58,812 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:18:59,096 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:18:59,104 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:18:59,111 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:18:59,234 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:18:59,236 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:18:59,357 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:18:59,359 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:18:59,484 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:18:59,486 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:18:59,606 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:18:59,607 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-31 10:18:59,748 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-31 10:18:59,754 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-31 10:18:59,841 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-31 10:18:59,843 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-31 10:18:59,926 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-31 10:18:59,927 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-31 10:19:00,012 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-31 10:19:00,014 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-31 10:19:00,098 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-31 10:19:00,107 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-31 10:19:00,345 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-31 10:19:00,347 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-31 10:19:00,515 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-31 10:19:00,522 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-31 10:19:00,653 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-31 10:19:00,655 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-31 10:19:00,736 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-31 10:19:00,739 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-31 10:19:00,833 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-31 10:19:00,852 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-31 10:19:01,017 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-31 10:19:01,019 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-31 10:19:01,150 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-31 10:19:02,341 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 56mS.
+2024-05-31 10:19:02,345 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-31 10:19:03,154 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-31 10:19:05,890 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3545mS.
+2024-05-31 10:19:05,891 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-31 10:19:05,893 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-31 10:34:47,639 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:34:47,928 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:34:52,363 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:34:52,561 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:34:54,937 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:34:55,213 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:34:57,989 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:34:58,212 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:35:14,437 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 727889600 Bytes (1066401792)
+2024-05-31 10:35:16,007 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 767213248 Bytes (1066401792)
+2024-05-31 10:35:17,726 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 403663296 Bytes (1066401792)
+2024-05-31 10:35:18,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-31 10:35:18,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-31 10:35:18,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-31 10:35:18,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-31 10:35:18,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-31 10:35:18,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-31 10:35:18,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-31 10:35:18,258 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-31 10:35:18,589 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-31 10:35:18,712 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-31 10:35:18,764 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-31 10:35:18,877 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-31 10:35:19,149 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:35:19,151 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:35:19,252 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:35:19,253 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:35:19,342 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:35:19,344 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:35:19,431 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:35:19,432 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:35:19,519 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:35:19,523 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:35:19,526 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:35:19,628 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:35:19,629 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:35:19,712 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:35:19,714 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:35:19,795 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:35:19,797 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:35:19,882 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:35:19,884 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-31 10:35:19,978 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-31 10:35:19,979 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-31 10:35:20,071 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-31 10:35:20,073 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-31 10:35:20,159 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-31 10:35:20,161 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-31 10:35:20,247 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-31 10:35:20,248 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-31 10:35:20,332 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-31 10:35:20,340 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-31 10:35:20,791 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-31 10:35:20,792 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-31 10:35:20,874 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-31 10:35:20,881 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-31 10:35:21,019 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-31 10:35:21,021 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-31 10:35:21,103 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-31 10:35:21,106 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-31 10:35:21,197 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-31 10:35:21,214 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-31 10:35:21,328 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-31 10:35:21,330 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-31 10:35:21,461 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-31 10:35:22,623 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 339mS.
+2024-05-31 10:35:22,628 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-31 10:35:23,136 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-31 10:35:26,163 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3534mS.
+2024-05-31 10:35:26,164 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-31 10:35:26,166 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-31 10:43:13,762 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:43:14,075 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:43:17,787 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:43:18,095 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:43:21,502 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:43:21,759 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-31 10:43:58,200 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 501272416 Bytes (1067450368)
+2024-05-31 10:43:59,786 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 540069728 Bytes (1067450368)
+2024-05-31 10:44:01,150 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 638109536 Bytes (1067450368)
+2024-05-31 10:44:01,762 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-31 10:44:01,762 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-31 10:44:01,763 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-31 10:44:01,764 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-31 10:44:01,764 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-31 10:44:01,765 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-31 10:44:01,765 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-31 10:44:01,766 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-31 10:44:02,169 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-31 10:44:02,271 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-31 10:44:02,316 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-31 10:44:02,449 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-31 10:44:02,804 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:44:02,812 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:44:02,940 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:44:02,944 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:44:03,162 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:44:03,166 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:44:03,352 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:44:03,355 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:44:03,472 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:44:03,477 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 10:44:03,479 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 10:44:03,563 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 10:44:03,565 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 10:44:03,661 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 10:44:03,663 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 10:44:03,758 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 10:44:03,760 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 10:44:03,852 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 10:44:03,853 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-31 10:44:03,958 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-31 10:44:03,960 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-31 10:44:04,052 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-31 10:44:04,054 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-31 10:44:04,150 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-31 10:44:04,151 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-31 10:44:04,263 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-31 10:44:04,265 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-31 10:44:04,361 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-31 10:44:04,370 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-31 10:44:04,502 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-31 10:44:04,504 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-31 10:44:04,600 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-31 10:44:04,607 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-31 10:44:04,782 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-31 10:44:04,786 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-31 10:44:04,889 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-31 10:44:04,893 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-31 10:44:04,994 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-31 10:44:05,015 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-31 10:44:05,116 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-31 10:44:05,118 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-31 10:44:05,406 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-31 10:44:06,931 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 112mS.
+2024-05-31 10:44:06,938 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-31 10:44:07,781 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-31 10:44:11,422 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4484mS.
+2024-05-31 10:44:11,423 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-31 10:44:11,425 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-31 12:34:46,361 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 831652736 Bytes (1068498944)
+2024-05-31 12:34:47,648 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 624797392 Bytes (1068498944)
+2024-05-31 12:34:49,279 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 427742904 Bytes (1068498944)
+2024-05-31 12:34:49,879 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-31 12:34:49,879 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-31 12:34:49,880 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-31 12:34:49,880 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-31 12:34:49,880 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-31 12:34:49,881 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-31 12:34:49,882 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-31 12:34:49,884 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-31 12:34:50,356 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-31 12:34:50,597 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-31 12:34:50,645 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-31 12:34:50,788 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-31 12:34:50,955 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 12:34:50,958 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 12:34:51,060 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 12:34:51,061 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 12:34:51,149 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 12:34:51,150 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 12:34:51,233 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 12:34:51,234 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 12:34:51,318 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 12:34:51,322 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-31 12:34:51,326 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-31 12:34:51,409 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-31 12:34:51,410 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-31 12:34:51,497 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-31 12:34:51,499 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-31 12:34:51,580 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-31 12:34:51,581 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-31 12:34:51,663 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-31 12:34:51,664 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-31 12:34:51,760 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-31 12:34:51,762 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-31 12:34:51,852 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-31 12:34:51,853 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-31 12:34:51,936 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-31 12:34:51,937 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-31 12:34:52,022 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-31 12:34:52,025 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-31 12:34:52,565 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-31 12:34:52,574 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-31 12:34:52,802 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-31 12:34:52,804 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-31 12:34:52,887 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-31 12:34:52,894 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-31 12:34:53,031 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-31 12:34:53,034 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-31 12:34:53,119 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-31 12:34:53,122 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-31 12:34:53,213 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-31 12:34:53,230 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-31 12:34:53,344 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-31 12:34:53,347 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-31 12:34:53,484 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-31 12:34:56,324 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 381mS.
+2024-05-31 12:34:56,336 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-31 12:34:57,169 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-31 12:35:00,318 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3981mS.
+2024-05-31 12:35:00,318 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-31 12:35:00,320 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

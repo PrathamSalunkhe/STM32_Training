@@ -1,0 +1,1731 @@
+2024-05-30 10:43:23,947 [INFO] MainUpdater:2854 - connection check result : 10
+2024-05-30 10:43:23,969 [INFO] MainUpdater:2854 - connection check result : 10
+2024-05-30 10:43:24,158 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-05-30 10:43:24,162 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-05-30 10:43:24,274 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-05-30 10:43:24,275 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-05-30 10:43:24,276 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-05-30 10:43:24,282 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-05-30 10:43:24,308 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 378423456 Bytes (681574400)
+2024-05-30 10:43:24,309 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-05-30 10:43:24,310 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-05-30 10:43:24,310 [INFO] OpenFileManager:308 - Change cursor
+2024-05-30 10:43:24,362 [INFO] Mcu:1937 - Initializing MCU STM32L4A6ZGTx STM32L4A6ZGTx STM32L4A6ZGT6
+2024-05-30 10:43:27,857 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-05-30 10:43:29,358 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-05-30 10:43:29,359 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-05-30 10:43:29,359 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-05-30 10:43:29,359 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-05-30 10:43:29,359 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,385 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,386 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,387 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,387 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,387 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,387 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,387 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,388 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 10:43:29,568 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-05-30 10:43:31,122 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-05-30 10:43:31,171 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Instance) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,172 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Request) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,172 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Direction) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,172 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphInc) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,172 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemInc) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,173 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphDataAlignment) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,174 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemDataAlignment) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,174 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Mode) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,174 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Priority) has Id (SPI1_TX) currently not set
+2024-05-30 10:43:31,174 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Instance) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,174 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Request) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,174 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Direction) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,174 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphInc) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,175 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemInc) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,175 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphDataAlignment) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,175 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemDataAlignment) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,175 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Mode) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,175 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Priority) has Id (SPI1_RX) currently not set
+2024-05-30 10:43:31,946 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 393262800 Bytes (681574400)
+2024-05-30 10:43:32,007 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-05-30 10:43:32,008 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-05-30 10:43:32,011 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-05-30 10:43:32,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-05-30 10:43:32,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-05-30 10:43:32,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-05-30 10:43:32,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-05-30 10:43:32,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-05-30 10:43:32,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-05-30 10:43:32,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-05-30 10:43:32,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-05-30 10:43:32,020 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-05-30 10:43:32,020 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-05-30 10:43:32,020 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-05-30 10:43:32,020 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-05-30 10:43:32,020 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-05-30 10:43:32,020 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-05-30 10:43:32,811 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-05-30 10:43:32,815 [INFO] PinOutPanel:1499 - setPackage(STM32L4A6ZGTx,LQFP144)
+2024-05-30 10:43:33,483 [INFO] UtilMem:75 - Before build in PCC Used Memory: 302804808 Bytes (681574400)
+2024-05-30 10:43:34,138 [INFO] UtilMem:75 - After build in PCC Used Memory: 405038920 Bytes (681574400)
+2024-05-30 10:43:34,214 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,215 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,215 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,215 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,215 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,216 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,216 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,216 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,216 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,217 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,217 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,217 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,217 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,219 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,219 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,219 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,220 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,220 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,220 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,220 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,220 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,221 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,221 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,221 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,222 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,222 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,223 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,223 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,223 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,224 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,224 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,225 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,225 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,225 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,226 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,226 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,227 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,228 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,228 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,229 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,229 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,230 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,230 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,231 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,231 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,231 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,231 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,232 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,232 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,232 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,232 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,232 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,233 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,233 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,233 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,233 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,234 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,234 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,234 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,234 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,235 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,235 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,236 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,237 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,238 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,239 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 10:43:34,429 [INFO] CADModel:165 - CPN selected for project levelSTM32L4A6ZGT6
+2024-05-30 10:43:34,429 [INFO] CADModel:114 - Register for checkConnection events
+2024-05-30 10:43:34,514 [INFO] OpenFileManager:328 - Restore cursor
+2024-05-30 10:43:43,833 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x209,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 10:43:45,638 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 10:43:51,119 [INFO] Gpio:273 - dependency for GPIO [LPUART1, SPI1]
+2024-05-30 10:44:03,037 [INFO] Gpio:273 - dependency for GPIO [LPUART1, SPI1]
+2024-05-30 10:44:03,188 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 10:44:09,203 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 10:45:05,493 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 10:46:42,849 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 10:46:45,997 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 10:46:49,551 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 451191248 Bytes (681574400)
+2024-05-30 10:46:50,875 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 484714896 Bytes (681574400)
+2024-05-30 10:46:53,378 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 282132128 Bytes (681574400)
+2024-05-30 10:46:55,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 10:46:55,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 10:46:55,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 10:46:55,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 10:46:55,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 10:46:55,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-30 10:46:55,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 10:46:55,265 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 10:46:56,536 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/license.tmp_save
+2024-05-30 10:46:57,188 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/license.tmp
+2024-05-30 10:46:57,360 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/gpio.tmp_save
+2024-05-30 10:46:57,598 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/gpio.tmp
+2024-05-30 10:46:59,224 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma.tmp_save
+2024-05-30 10:46:59,453 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma.tmp
+2024-05-30 10:46:59,454 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma_GV.tmp_save
+2024-05-30 10:46:59,650 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma_GV.tmp
+2024-05-30 10:46:59,667 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_it.c_save
+2024-05-30 10:46:59,916 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_it.c
+2024-05-30 10:46:59,919 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 10:47:00,071 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_it.h
+2024-05-30 10:47:00,079 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 10:47:00,424 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 10:47:00,427 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/system.tmp_save
+2024-05-30 10:47:00,603 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/system.tmp
+2024-05-30 10:47:00,610 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 10:47:00,886 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 10:47:01,024 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/main.h_save
+2024-05-30 10:47:01,335 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/main.h
+2024-05-30 10:47:01,338 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/main.c_save
+2024-05-30 10:47:01,659 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/main.c
+2024-05-30 10:47:03,363 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 241mS.
+2024-05-30 10:47:03,399 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 10:47:04,868 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 10:47:04,895 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-05-30 10:47:04,908 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-05-30 10:47:04,939 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-05-30 10:47:04,955 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-05-30 10:47:04,966 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-05-30 10:47:10,118 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 6709mS.
+2024-05-30 10:47:10,119 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 10:47:10,121 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 10:53:13,875 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 457320664 Bytes (756023296)
+2024-05-30 10:53:14,897 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 496117976 Bytes (756023296)
+2024-05-30 10:53:17,435 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 603599064 Bytes (756023296)
+2024-05-30 10:53:18,165 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 10:53:18,165 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 10:53:18,165 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 10:53:18,165 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 10:53:18,166 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 10:53:18,166 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-30 10:53:18,167 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 10:53:18,167 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 10:53:18,204 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 10:53:18,205 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,205 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 10:53:18,205 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 10:53:18,206 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 10:53:18,206 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,206 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,206 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,206 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 10:53:18,206 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 10:53:18,206 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,206 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,206 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,206 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,206 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,206 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,207 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,207 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,207 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,207 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,207 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,207 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,207 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 10:53:18,207 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 10:53:18,207 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 10:53:18,207 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 10:53:18,207 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 10:53:18,207 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,208 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,209 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,209 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,209 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 10:53:18,209 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,209 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 10:53:18,209 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 10:53:18,209 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 10:53:18,209 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,209 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,209 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,209 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 10:53:18,210 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 10:53:18,210 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,210 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,210 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,210 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,210 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,210 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,210 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,210 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,210 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,210 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,211 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,211 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,211 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,211 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,212 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:319 - Argument : pSyncConfigvalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,213 [INFO] Argument:319 - Argument : SyncSignalIDvalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:329 - Argument : SyncSignalIDvalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:319 - Argument : SyncPolarityvalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:329 - Argument : SyncPolarityvalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:319 - Argument : SyncEnablevalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:329 - Argument : SyncEnablevalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:319 - Argument : EventEnablevalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:329 - Argument : EventEnablevalue: null
+2024-05-30 10:53:18,213 [INFO] Argument:319 - Argument : RequestNumbervalue: null
+2024-05-30 10:53:18,214 [INFO] Argument:329 - Argument : RequestNumbervalue: null
+2024-05-30 10:53:18,215 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 10:53:18,216 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,216 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 10:53:18,216 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 10:53:18,216 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 10:53:18,216 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,216 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,216 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,216 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 10:53:18,216 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 10:53:18,217 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,217 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,217 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,217 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,217 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,217 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,217 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,217 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,217 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,217 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,217 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,218 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,218 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,218 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,219 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,219 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,219 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,219 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,219 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,219 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,219 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,220 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,220 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,220 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 10:53:18,220 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,220 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 10:53:18,220 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 10:53:18,220 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 10:53:18,220 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,220 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,220 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 10:53:18,220 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 10:53:18,220 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 10:53:18,220 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,221 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 10:53:18,221 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,221 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 10:53:18,221 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,221 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 10:53:18,221 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,221 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 10:53:18,221 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,221 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 10:53:18,221 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,221 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 10:53:18,222 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,222 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:319 - Argument : pSyncConfigvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 10:53:18,223 [INFO] Argument:319 - Argument : SyncSignalIDvalue: null
+2024-05-30 10:53:18,223 [INFO] Argument:329 - Argument : SyncSignalIDvalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:319 - Argument : SyncPolarityvalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:329 - Argument : SyncPolarityvalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:319 - Argument : SyncEnablevalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:329 - Argument : SyncEnablevalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:319 - Argument : EventEnablevalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:329 - Argument : EventEnablevalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:319 - Argument : RequestNumbervalue: null
+2024-05-30 10:53:18,224 [INFO] Argument:329 - Argument : RequestNumbervalue: null
+2024-05-30 10:53:18,731 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/license.tmp_save
+2024-05-30 10:53:18,889 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/license.tmp
+2024-05-30 10:53:18,947 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/gpio.tmp_save
+2024-05-30 10:53:19,112 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/gpio.tmp
+2024-05-30 10:53:19,891 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma.tmp_save
+2024-05-30 10:53:20,067 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma.tmp
+2024-05-30 10:53:20,069 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma_GV.tmp_save
+2024-05-30 10:53:20,237 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma_GV.tmp
+2024-05-30 10:53:20,252 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_it.c_save
+2024-05-30 10:53:20,448 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_it.c
+2024-05-30 10:53:20,451 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 10:53:20,613 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_it.h
+2024-05-30 10:53:20,621 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 10:53:20,862 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 10:53:20,864 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/system.tmp_save
+2024-05-30 10:53:21,016 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/system.tmp
+2024-05-30 10:53:21,021 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 10:53:21,184 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 10:53:21,222 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/main.h_save
+2024-05-30 10:53:21,374 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/main.h
+2024-05-30 10:53:21,378 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/main.c_save
+2024-05-30 10:53:21,694 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/main.c
+2024-05-30 10:53:23,427 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 336mS.
+2024-05-30 10:53:23,431 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 10:53:24,453 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 10:53:27,944 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4512mS.
+2024-05-30 10:53:27,944 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 10:53:27,945 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 11:39:40,689 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 11:39:46,305 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 11:39:49,913 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 11:39:55,284 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 563357416 Bytes (859832320)
+2024-05-30 11:39:57,046 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 603203304 Bytes (859832320)
+2024-05-30 11:40:01,480 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 687089384 Bytes (859832320)
+2024-05-30 11:40:02,174 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 11:40:02,174 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 11:40:02,175 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 11:40:02,175 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 11:40:02,175 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 11:40:02,176 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-30 11:40:02,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 11:40:02,178 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 11:40:02,211 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 11:40:02,211 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,211 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 11:40:02,211 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 11:40:02,212 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 11:40:02,212 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,212 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,212 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,212 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 11:40:02,212 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 11:40:02,212 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,212 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,212 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,212 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,212 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,212 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,212 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,212 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,213 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,213 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,213 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,213 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,213 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,213 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 11:40:02,214 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,214 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 11:40:02,215 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel3
+2024-05-30 11:40:02,215 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 11:40:02,215 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,215 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,215 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,215 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 11:40:02,215 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-05-30 11:40:02,215 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,215 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,215 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,215 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,215 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,216 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,216 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,216 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,216 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,216 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,216 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,216 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,216 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 11:40:02,216 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 11:40:02,216 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 11:40:02,216 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,217 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:319 - Argument : pSyncConfigvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,218 [INFO] Argument:319 - Argument : SyncSignalIDvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:329 - Argument : SyncSignalIDvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:319 - Argument : SyncPolarityvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:329 - Argument : SyncPolarityvalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:319 - Argument : SyncEnablevalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:329 - Argument : SyncEnablevalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:319 - Argument : EventEnablevalue: null
+2024-05-30 11:40:02,218 [INFO] Argument:329 - Argument : EventEnablevalue: null
+2024-05-30 11:40:02,219 [INFO] Argument:319 - Argument : RequestNumbervalue: null
+2024-05-30 11:40:02,219 [INFO] Argument:329 - Argument : RequestNumbervalue: null
+2024-05-30 11:40:02,221 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 11:40:02,221 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,221 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 11:40:02,221 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 11:40:02,221 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 11:40:02,221 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,221 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,221 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,221 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 11:40:02,222 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 11:40:02,222 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,222 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,222 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,222 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,222 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,222 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,222 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,222 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,222 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,222 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,223 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,223 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,223 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,223 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-05-30 11:40:02,224 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,224 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 11:40:02,224 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Channel2
+2024-05-30 11:40:02,225 [INFO] Argument:319 - Argument : Initvalue: null
+2024-05-30 11:40:02,225 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,225 [INFO] Argument:319 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,225 [INFO] Argument:329 - Argument : Requestvalue: DMA_REQUEST_1
+2024-05-30 11:40:02,225 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 11:40:02,225 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-30 11:40:02,225 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,225 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-30 11:40:02,226 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,226 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-30 11:40:02,226 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,227 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-30 11:40:02,227 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,227 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-30 11:40:02,228 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,228 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-05-30 11:40:02,228 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,229 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-30 11:40:02,229 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-05-30 11:40:02,229 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-05-30 11:40:02,230 [INFO] Argument:319 - Argument : Statevalue: null
+2024-05-30 11:40:02,230 [INFO] Argument:329 - Argument : Statevalue: null
+2024-05-30 11:40:02,230 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-05-30 11:40:02,231 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-05-30 11:40:02,231 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:319 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:329 - Argument : XferAbortCallbackvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:319 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:329 - Argument : DmaBaseAddressvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:319 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,232 [INFO] Argument:329 - Argument : ChannelIndexvalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:319 - Argument : pSyncConfigvalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:321 - 	 sub Args: 
+2024-05-30 11:40:02,233 [INFO] Argument:319 - Argument : SyncSignalIDvalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:329 - Argument : SyncSignalIDvalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:319 - Argument : SyncPolarityvalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:329 - Argument : SyncPolarityvalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:319 - Argument : SyncEnablevalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:329 - Argument : SyncEnablevalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:319 - Argument : EventEnablevalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:329 - Argument : EventEnablevalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:319 - Argument : RequestNumbervalue: null
+2024-05-30 11:40:02,233 [INFO] Argument:329 - Argument : RequestNumbervalue: null
+2024-05-30 11:40:02,598 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/license.tmp_save
+2024-05-30 11:40:02,859 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/license.tmp
+2024-05-30 11:40:02,914 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/gpio.tmp_save
+2024-05-30 11:40:03,096 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/gpio.tmp
+2024-05-30 11:40:03,675 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma.tmp_save
+2024-05-30 11:40:03,787 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma.tmp
+2024-05-30 11:40:03,788 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma_GV.tmp_save
+2024-05-30 11:40:03,878 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/dma_GV.tmp
+2024-05-30 11:40:03,889 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_it.c_save
+2024-05-30 11:40:04,334 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_it.c
+2024-05-30 11:40:04,336 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 11:40:04,432 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_it.h
+2024-05-30 11:40:04,436 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 11:40:04,627 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 11:40:04,629 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/system.tmp_save
+2024-05-30 11:40:04,720 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/MXTmpFiles/system.tmp
+2024-05-30 11:40:04,723 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 11:40:04,864 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 11:40:04,888 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/main.h_save
+2024-05-30 11:40:05,019 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Inc/main.h
+2024-05-30 11:40:05,022 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/main.c_save
+2024-05-30 11:40:05,185 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/03_SPI_Tx_Rx_DMA/Core/Src/main.c
+2024-05-30 11:40:06,439 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 105mS.
+2024-05-30 11:40:06,443 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 11:40:07,601 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 11:40:11,086 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4643mS.
+2024-05-30 11:40:11,098 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 11mS.
+2024-05-30 11:40:11,099 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 14:09:19,578 [INFO] MainUpdater:2854 - connection check result : 10
+2024-05-30 14:09:19,579 [INFO] MainUpdater:2854 - connection check result : 10
+2024-05-30 14:09:19,687 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-05-30 14:09:19,687 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-05-30 14:09:19,755 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-05-30 14:09:19,755 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-05-30 14:09:19,755 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-05-30 14:09:19,759 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-05-30 14:09:19,766 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 579213920 Bytes (929038336)
+2024-05-30 14:09:19,767 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-05-30 14:09:19,767 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-05-30 14:09:19,767 [INFO] OpenFileManager:308 - Change cursor
+2024-05-30 14:09:19,823 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-05-30 14:09:19,834 [INFO] Mcu:1937 - Initializing MCU STM32L4A6ZGTx STM32L4A6ZGTx STM32L4A6ZGT6
+2024-05-30 14:09:22,883 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-05-30 14:09:23,895 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-05-30 14:09:23,895 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-05-30 14:09:23,895 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-05-30 14:09:23,895 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-05-30 14:09:23,896 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-05-30 14:09:23,918 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,918 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,918 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,918 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,918 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,919 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,920 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,921 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,921 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:23,921 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 14:09:24,203 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-05-30 14:09:25,865 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-05-30 14:09:26,381 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 723240392 Bytes (929038336)
+2024-05-30 14:09:26,447 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-05-30 14:09:26,447 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-05-30 14:09:26,448 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-05-30 14:09:26,449 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-05-30 14:09:26,450 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-05-30 14:09:26,451 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-05-30 14:09:26,452 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-05-30 14:09:26,453 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-05-30 14:09:26,454 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-05-30 14:09:26,455 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-05-30 14:09:26,456 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-05-30 14:09:27,092 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-05-30 14:09:27,098 [INFO] PinOutPanel:1499 - setPackage(STM32L4A6ZGTx,LQFP144)
+2024-05-30 14:09:27,766 [INFO] UtilMem:75 - Before build in PCC Used Memory: 583710568 Bytes (929038336)
+2024-05-30 14:09:28,327 [INFO] UtilMem:75 - After build in PCC Used Memory: 685944680 Bytes (929038336)
+2024-05-30 14:09:28,373 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,373 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,373 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,373 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,374 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,374 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,374 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,374 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,374 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,375 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,375 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,375 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,375 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,376 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,376 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,376 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,376 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,377 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,377 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,377 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,377 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,377 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,377 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,378 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,378 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,378 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,378 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,379 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,379 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,379 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,379 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,380 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,380 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,380 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,388 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,389 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,389 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,390 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 14:09:28,546 [INFO] CADModel:165 - CPN selected for project levelSTM32L4A6ZGT6
+2024-05-30 14:09:28,546 [INFO] CADModel:114 - Register for checkConnection events
+2024-05-30 14:09:28,622 [INFO] OpenFileManager:328 - Restore cursor
+2024-05-30 14:09:39,438 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 14:09:42,560 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 14:09:57,027 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 14:09:58,632 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 14:10:05,024 [INFO] Gpio:273 - dependency for GPIO [LPUART1, SPI1]
+2024-05-30 14:10:48,487 [INFO] Gpio:273 - dependency for GPIO [LPUART1, SPI1]
+2024-05-30 14:11:10,594 [INFO] Gpio:273 - dependency for GPIO [LPUART1, SPI1]
+2024-05-30 14:11:17,297 [INFO] Gpio:273 - dependency for GPIO [LPUART1, SPI1]
+2024-05-30 14:11:56,442 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 490602904 Bytes (929038336)
+2024-05-30 14:11:58,343 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 694552984 Bytes (929038336)
+2024-05-30 14:12:00,015 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 773720472 Bytes (929038336)
+2024-05-30 14:12:00,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 14:12:00,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 14:12:00,587 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 14:12:00,587 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 14:12:00,587 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 14:12:00,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 14:12:00,597 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 14:12:01,023 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/license.tmp_save
+2024-05-30 14:12:01,222 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/license.tmp
+2024-05-30 14:12:01,289 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/gpio.tmp_save
+2024-05-30 14:12:01,465 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/gpio.tmp
+2024-05-30 14:12:01,708 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_it.c_save
+2024-05-30 14:12:01,990 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_it.c
+2024-05-30 14:12:01,992 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 14:12:02,093 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_it.h
+2024-05-30 14:12:02,102 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 14:12:02,659 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 14:12:02,664 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/system.tmp_save
+2024-05-30 14:12:02,818 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/system.tmp
+2024-05-30 14:12:02,822 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 14:12:02,984 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 14:12:03,032 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/main.h_save
+2024-05-30 14:12:03,228 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/main.h
+2024-05-30 14:12:03,234 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/main.c_save
+2024-05-30 14:12:03,465 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/main.c
+2024-05-30 14:12:05,173 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 202mS.
+2024-05-30 14:12:05,179 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 14:12:05,817 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 14:12:05,821 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-05-30 14:12:05,829 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-05-30 14:12:05,858 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-05-30 14:12:05,871 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-05-30 14:12:05,880 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-05-30 14:12:09,140 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3962mS.
+2024-05-30 14:12:09,145 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 2mS.
+2024-05-30 14:12:09,147 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 14:14:10,949 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 484177072 Bytes (929038336)
+2024-05-30 14:14:12,888 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 524022960 Bytes (929038336)
+2024-05-30 14:14:14,731 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 619443376 Bytes (929038336)
+2024-05-30 14:14:15,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 14:14:15,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 14:14:15,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 14:14:15,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 14:14:15,267 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 14:14:15,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 14:14:15,270 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 14:14:15,605 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/license.tmp_save
+2024-05-30 14:14:15,710 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/license.tmp
+2024-05-30 14:14:15,757 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/gpio.tmp_save
+2024-05-30 14:14:15,980 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/gpio.tmp
+2024-05-30 14:14:16,155 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_it.c_save
+2024-05-30 14:14:16,318 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_it.c
+2024-05-30 14:14:16,321 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 14:14:16,423 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_it.h
+2024-05-30 14:14:16,429 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 14:14:16,604 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 14:14:16,608 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/system.tmp_save
+2024-05-30 14:14:16,700 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/system.tmp
+2024-05-30 14:14:16,704 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 14:14:16,817 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 14:14:16,842 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/main.h_save
+2024-05-30 14:14:16,979 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/main.h
+2024-05-30 14:14:16,981 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/main.c_save
+2024-05-30 14:14:17,236 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/main.c
+2024-05-30 14:14:18,541 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 60mS.
+2024-05-30 14:14:18,544 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 14:14:19,160 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 14:14:21,896 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3352mS.
+2024-05-30 14:14:21,899 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 2mS.
+2024-05-30 14:14:21,901 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-30 14:16:26,620 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 474049896 Bytes (929038336)
+2024-05-30 14:16:27,975 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 535915880 Bytes (929038336)
+2024-05-30 14:16:29,405 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 617182568 Bytes (929038336)
+2024-05-30 14:16:30,092 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 14:16:30,095 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 14:16:30,095 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 14:16:30,095 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 14:16:30,096 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 14:16:30,097 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 14:16:30,098 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 14:16:30,426 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/license.tmp_save
+2024-05-30 14:16:30,533 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/license.tmp
+2024-05-30 14:16:30,573 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/gpio.tmp_save
+2024-05-30 14:16:30,675 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/gpio.tmp
+2024-05-30 14:16:30,930 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_it.c_save
+2024-05-30 14:16:31,072 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_it.c
+2024-05-30 14:16:31,074 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 14:16:31,200 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_it.h
+2024-05-30 14:16:31,206 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 14:16:31,409 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 14:16:31,411 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/system.tmp_save
+2024-05-30 14:16:31,496 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/MXTmpFiles/system.tmp
+2024-05-30 14:16:31,499 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 14:16:31,698 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 14:16:31,724 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/main.h_save
+2024-05-30 14:16:31,832 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Inc/main.h
+2024-05-30 14:16:31,837 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/main.c_save
+2024-05-30 14:16:32,155 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/02_SPI_Tx_Rx_IT/Core/Src/main.c
+2024-05-30 14:16:33,510 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 144mS.
+2024-05-30 14:16:33,512 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 14:16:34,665 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 14:16:37,653 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4141mS.
+2024-05-30 14:16:37,653 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 14:16:37,654 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 16:53:02,355 [INFO] MainUpdater:2854 - connection check result : 10
+2024-05-30 16:53:02,356 [INFO] MainUpdater:2854 - connection check result : 10
+2024-05-30 16:53:02,484 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-05-30 16:53:02,485 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-05-30 16:53:02,592 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-05-30 16:53:02,592 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-05-30 16:53:02,593 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-05-30 16:53:02,599 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-05-30 16:53:02,631 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 390655840 Bytes (958398464)
+2024-05-30 16:53:02,632 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-05-30 16:53:02,633 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-05-30 16:53:02,633 [INFO] OpenFileManager:308 - Change cursor
+2024-05-30 16:53:02,670 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-05-30 16:53:02,682 [INFO] Mcu:1937 - Initializing MCU STM32L4A6ZGTx STM32L4A6ZGTx STM32L4A6ZGT6
+2024-05-30 16:53:07,273 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-05-30 16:53:08,342 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-05-30 16:53:08,342 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-05-30 16:53:08,343 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-05-30 16:53:08,343 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-05-30 16:53:08,343 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-05-30 16:53:08,369 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,369 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,369 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,370 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,371 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,372 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-05-30 16:53:08,571 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-05-30 16:53:10,218 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-05-30 16:53:10,262 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-05-30 16:53:10,268 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (32000000)
+2024-05-30 16:53:10,973 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 369025464 Bytes (958398464)
+2024-05-30 16:53:11,103 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-05-30 16:53:11,105 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-05-30 16:53:11,105 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-05-30 16:53:11,105 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-05-30 16:53:11,105 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-05-30 16:53:11,105 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-05-30 16:53:11,105 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-05-30 16:53:11,106 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-05-30 16:53:11,107 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-05-30 16:53:11,108 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-05-30 16:53:11,109 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-05-30 16:53:11,110 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-05-30 16:53:11,111 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-05-30 16:53:11,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-05-30 16:53:11,112 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-05-30 16:53:12,208 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-05-30 16:53:12,211 [INFO] PinOutPanel:1499 - setPackage(STM32L4A6ZGTx,LQFP144)
+2024-05-30 16:53:13,185 [INFO] UtilMem:75 - Before build in PCC Used Memory: 380207800 Bytes (958398464)
+2024-05-30 16:53:13,728 [INFO] UtilMem:75 - After build in PCC Used Memory: 456349824 Bytes (958398464)
+2024-05-30 16:53:13,732 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-05-30 16:53:13,787 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,787 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,787 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,788 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,788 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,788 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,788 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,789 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,789 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,789 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,790 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,790 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,790 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,791 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,791 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,791 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,792 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,792 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,792 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,794 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,795 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,795 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,796 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,796 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,796 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,797 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,797 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,797 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,798 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,799 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,799 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,800 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,800 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,801 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,801 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,802 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,802 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,803 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,804 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,804 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,804 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,804 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,804 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,804 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,804 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,810 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,811 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,812 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-05-30 16:53:13,966 [INFO] CADModel:165 - CPN selected for project levelSTM32L4A6ZGT6
+2024-05-30 16:53:13,966 [INFO] CADModel:114 - Register for checkConnection events
+2024-05-30 16:53:14,013 [INFO] OpenFileManager:328 - Restore cursor
+2024-05-30 17:26:15,160 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 17:26:35,737 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 641495144 Bytes (958398464)
+2024-05-30 17:26:38,033 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 766275688 Bytes (958398464)
+2024-05-30 17:26:39,956 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 417105248 Bytes (958398464)
+2024-05-30 17:26:40,511 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 17:26:40,511 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 17:26:40,511 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 17:26:40,511 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 17:26:40,511 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 17:26:40,512 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 17:26:40,512 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-30 17:26:40,513 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 17:26:40,920 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-30 17:26:41,122 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-30 17:26:41,200 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-30 17:26:41,447 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-30 17:26:42,329 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:26:42,338 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:26:42,442 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:26:42,443 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:26:42,525 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:26:42,527 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:26:42,612 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:26:42,614 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:26:42,703 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:26:42,715 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:26:42,718 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:26:42,882 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:26:42,883 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:26:42,978 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:26:42,980 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:26:43,066 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:26:43,068 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:26:43,187 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:26:43,189 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-30 17:26:43,291 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-30 17:26:43,293 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-30 17:26:43,395 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-30 17:26:43,397 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-30 17:26:43,487 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-30 17:26:43,489 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-30 17:26:43,581 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-30 17:26:43,583 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-30 17:26:43,726 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-30 17:26:43,737 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-30 17:26:43,993 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-30 17:26:43,995 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 17:26:44,126 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-30 17:26:44,141 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 17:26:44,349 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 17:26:44,353 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-30 17:26:44,477 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-30 17:26:44,481 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 17:26:44,574 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 17:26:44,617 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-30 17:26:44,740 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-30 17:26:44,743 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-30 17:26:44,911 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-30 17:26:47,132 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 390mS.
+2024-05-30 17:26:47,145 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 17:26:48,169 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 17:26:48,179 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-05-30 17:26:48,212 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-05-30 17:26:48,236 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-05-30 17:26:48,249 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-05-30 17:26:51,928 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4782mS.
+2024-05-30 17:26:51,929 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-30 17:26:51,931 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-30 17:35:04,575 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 553209360 Bytes (1027604480)
+2024-05-30 17:35:06,159 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 592479888 Bytes (1027604480)
+2024-05-30 17:35:07,770 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 700296648 Bytes (1027604480)
+2024-05-30 17:35:08,403 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 17:35:08,403 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 17:35:08,403 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 17:35:08,403 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 17:35:08,403 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 17:35:08,406 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 17:35:08,408 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-30 17:35:08,410 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 17:35:08,758 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-30 17:35:08,905 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-30 17:35:08,946 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-30 17:35:09,046 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-30 17:35:09,413 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:35:09,417 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:35:09,519 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:35:09,521 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:35:09,654 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:35:09,656 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:35:09,757 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:35:09,759 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:35:09,878 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:35:09,896 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:35:09,899 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:35:09,986 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:35:09,987 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:35:10,076 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:35:10,078 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:35:10,162 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:35:10,164 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:35:10,249 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:35:10,251 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-30 17:35:10,350 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-30 17:35:10,353 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-30 17:35:10,445 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-30 17:35:10,447 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-30 17:35:10,532 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-30 17:35:10,534 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-30 17:35:10,626 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-30 17:35:10,628 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-30 17:35:10,715 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-30 17:35:10,725 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-30 17:35:10,831 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-30 17:35:10,833 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 17:35:10,919 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-30 17:35:10,927 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 17:35:11,056 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 17:35:11,058 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-30 17:35:11,143 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-30 17:35:11,146 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 17:35:11,242 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 17:35:11,411 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-30 17:35:11,626 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-30 17:35:11,631 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-30 17:35:11,768 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-30 17:35:13,651 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 246mS.
+2024-05-30 17:35:13,659 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 17:35:14,174 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 17:35:17,707 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4046mS.
+2024-05-30 17:35:17,708 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-30 17:35:17,710 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 17:36:32,371 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 526911280 Bytes (1027604480)
+2024-05-30 17:36:34,269 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 565182256 Bytes (1027604480)
+2024-05-30 17:36:35,747 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 619185968 Bytes (1027604480)
+2024-05-30 17:36:36,460 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 17:36:36,460 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 17:36:36,460 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 17:36:36,460 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 17:36:36,460 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 17:36:36,462 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 17:36:36,462 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-30 17:36:36,463 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 17:36:36,880 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-30 17:36:37,012 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-30 17:36:37,064 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-30 17:36:37,163 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-30 17:36:37,531 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:36:37,537 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:36:37,672 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:36:37,676 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:36:37,815 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:36:37,817 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:36:37,947 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:36:37,951 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:36:38,070 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:36:38,076 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:36:38,080 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:36:38,171 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:36:38,173 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:36:38,265 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:36:38,267 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:36:38,357 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:36:38,359 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:36:38,449 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:36:38,451 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-30 17:36:38,549 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-30 17:36:38,551 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-30 17:36:38,641 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-30 17:36:38,643 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-30 17:36:38,728 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-30 17:36:38,729 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-30 17:36:38,816 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-30 17:36:38,817 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-30 17:36:38,903 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-30 17:36:39,042 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-30 17:36:39,264 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-30 17:36:39,266 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 17:36:39,377 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-30 17:36:39,382 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 17:36:39,513 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 17:36:39,514 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-30 17:36:39,601 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-30 17:36:39,604 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 17:36:39,700 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 17:36:39,719 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-30 17:36:39,817 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-30 17:36:39,819 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-30 17:36:39,999 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-30 17:36:41,434 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 226mS.
+2024-05-30 17:36:41,439 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 17:36:42,171 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 17:36:46,088 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4649mS.
+2024-05-30 17:36:46,089 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-30 17:36:46,090 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 17:55:39,299 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 17:56:28,690 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 17:56:35,020 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 17:56:53,846 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 507984480 Bytes (1030750208)
+2024-05-30 17:56:55,315 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 560413280 Bytes (1030750208)
+2024-05-30 17:56:57,884 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 658984816 Bytes (1030750208)
+2024-05-30 17:56:58,471 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 17:56:58,471 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 17:56:58,471 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 17:56:58,471 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 17:56:58,471 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 17:56:58,471 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 17:56:58,471 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-30 17:56:58,472 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 17:56:58,807 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-30 17:56:59,089 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-30 17:56:59,139 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-30 17:56:59,284 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-30 17:56:59,518 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:56:59,522 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:56:59,671 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:56:59,673 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:56:59,781 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:56:59,782 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:56:59,866 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:56:59,868 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:56:59,951 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:56:59,957 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 17:56:59,959 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 17:57:00,042 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 17:57:00,043 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 17:57:00,128 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 17:57:00,129 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 17:57:00,213 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 17:57:00,215 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 17:57:00,298 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 17:57:00,301 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-30 17:57:00,398 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-30 17:57:00,401 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-30 17:57:00,492 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-30 17:57:00,494 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-30 17:57:00,576 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-30 17:57:00,578 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-30 17:57:00,662 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-30 17:57:00,664 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-30 17:57:00,749 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-30 17:57:00,758 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-30 17:57:00,986 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-30 17:57:00,990 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 17:57:01,080 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-30 17:57:01,087 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 17:57:01,218 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 17:57:01,220 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-30 17:57:01,302 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-30 17:57:01,305 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 17:57:01,622 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 17:57:01,643 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-30 17:57:01,761 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-30 17:57:01,763 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-30 17:57:01,908 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-30 17:57:03,006 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 197mS.
+2024-05-30 17:57:03,010 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 17:57:03,577 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 17:57:06,612 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3601mS.
+2024-05-30 17:57:06,612 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 17:57:06,614 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 18:06:45,650 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:06:51,937 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:06:52,330 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:06:56,228 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:07:02,892 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 418145648 Bytes (1058013184)
+2024-05-30 18:07:04,426 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 470048112 Bytes (1058013184)
+2024-05-30 18:07:06,313 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 599914656 Bytes (1058013184)
+2024-05-30 18:07:06,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 18:07:06,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 18:07:06,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 18:07:06,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 18:07:06,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 18:07:06,857 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 18:07:06,857 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-30 18:07:06,858 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 18:07:07,179 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-30 18:07:07,275 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-30 18:07:07,317 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-30 18:07:07,418 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-30 18:07:07,684 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 18:07:07,686 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 18:07:07,812 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 18:07:07,813 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 18:07:07,899 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 18:07:07,900 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 18:07:08,151 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 18:07:08,152 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 18:07:08,236 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 18:07:08,241 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 18:07:08,244 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 18:07:08,334 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 18:07:08,335 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 18:07:08,419 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 18:07:08,421 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 18:07:08,502 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 18:07:08,503 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 18:07:08,584 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 18:07:08,585 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-30 18:07:08,679 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-30 18:07:08,681 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-30 18:07:08,818 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-30 18:07:08,820 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-30 18:07:08,910 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-30 18:07:08,911 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-30 18:07:08,994 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-30 18:07:08,995 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-30 18:07:09,077 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-30 18:07:09,086 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-30 18:07:09,204 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-30 18:07:09,205 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 18:07:09,288 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-30 18:07:09,294 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 18:07:09,419 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 18:07:09,420 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-30 18:07:09,505 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-30 18:07:09,507 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 18:07:09,598 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 18:07:09,616 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-30 18:07:09,711 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-30 18:07:09,713 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-30 18:07:09,912 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-30 18:07:10,750 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 52mS.
+2024-05-30 18:07:10,755 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 18:07:11,969 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 18:07:14,923 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4167mS.
+2024-05-30 18:07:14,923 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-05-30 18:07:14,927 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-30 18:28:51,714 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:28:52,237 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:28:59,736 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:28:59,967 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:29:04,587 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:29:04,827 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:29:15,150 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:29:15,674 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:30:52,981 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:31:01,244 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:31:05,707 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:31:17,272 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:32:44,649 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-30 18:33:51,554 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 436072656 Bytes (1062207488)
+2024-05-30 18:33:53,030 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 474869968 Bytes (1062207488)
+2024-05-30 18:33:54,835 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 723382480 Bytes (1062207488)
+2024-05-30 18:33:55,322 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-30 18:33:55,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-30 18:33:55,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-30 18:33:55,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-05-30 18:33:55,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-30 18:33:55,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-30 18:33:55,324 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-30 18:33:55,324 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-05-30 18:33:55,782 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp_save
+2024-05-30 18:33:55,950 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/license.tmp
+2024-05-30 18:33:55,999 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp_save
+2024-05-30 18:33:56,149 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/gpio.tmp
+2024-05-30 18:33:56,458 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 18:33:56,461 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 18:33:56,609 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 18:33:56,611 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 18:33:56,732 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 18:33:56,733 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 18:33:56,856 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 18:33:56,858 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 18:33:57,078 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 18:33:57,081 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-30 18:33:57,084 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp_save
+2024-05-30 18:33:57,164 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_HalInit.tmp
+2024-05-30 18:33:57,166 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp_save
+2024-05-30 18:33:57,247 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_vars.tmp
+2024-05-30 18:33:57,248 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp_save
+2024-05-30 18:33:57,331 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_ext_vars.tmp
+2024-05-30 18:33:57,332 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp_save
+2024-05-30 18:33:57,414 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/fatfs_inc.tmp
+2024-05-30 18:33:57,415 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h_save
+2024-05-30 18:33:57,512 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/ffconf.h
+2024-05-30 18:33:57,514 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c_save
+2024-05-30 18:33:57,600 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.c
+2024-05-30 18:33:57,601 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h_save
+2024-05-30 18:33:57,682 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/Target/user_diskio.h
+2024-05-30 18:33:57,684 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c_save
+2024-05-30 18:33:57,768 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.c
+2024-05-30 18:33:57,770 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h_save
+2024-05-30 18:33:57,854 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/FATFS/App/fatfs.h
+2024-05-30 18:33:57,863 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c_save
+2024-05-30 18:33:58,092 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_it.c
+2024-05-30 18:33:58,094 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h_save
+2024-05-30 18:33:58,176 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_it.h
+2024-05-30 18:33:58,183 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c_save
+2024-05-30 18:33:58,321 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/stm32l4xx_hal_msp.c
+2024-05-30 18:33:58,323 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp_save
+2024-05-30 18:33:58,406 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/MXTmpFiles/system.tmp
+2024-05-30 18:33:58,410 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-05-30 18:33:58,501 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/stm32l4xx_hal_conf.h
+2024-05-30 18:33:58,529 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h_save
+2024-05-30 18:33:58,648 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Inc/main.h
+2024-05-30 18:33:58,649 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c_save
+2024-05-30 18:33:58,783 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/05_SPI/04_SPI_SD_Card/Core/Src/main.c
+2024-05-30 18:34:00,115 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 248mS.
+2024-05-30 18:34:00,121 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-05-30 18:34:00,941 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-05-30 18:34:04,317 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4196mS.
+2024-05-30 18:34:04,318 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-05-30 18:34:04,320 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

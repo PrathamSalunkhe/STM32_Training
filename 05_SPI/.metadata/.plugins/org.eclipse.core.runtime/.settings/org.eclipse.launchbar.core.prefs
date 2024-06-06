@@ -2,7 +2,7 @@ LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
 activeLaunchTarget=null\:---
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:04_SPI_SD_CARD_NEW Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:QSPI_Flash,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:05_QSPI_Flash Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchTarget=null\:---
@@ -12,6 +12,8 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:03_SPI_Tx_Rx_DMA\ Debug/activeL
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:04_SPI_SD_CARD_NEW\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:04_SPI_SD_Card\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:04_SPI_SD_Card\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:QSPI_Flash/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:QSPI_Flash/activeLaunchTarget=null\:---
 org.eclipse.launchbar.core.descriptorType.default\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:01_SPI_Tx_Rx_Polling\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:02_SPI_Tx_Rx_IT\ Debug/activeLaunchMode=debug
@@ -22,3 +24,5 @@ org.eclipse.launchbar.core.descriptorType.default\:04_SPI_SD_CARD_NEW\ Debug/act
 org.eclipse.launchbar.core.descriptorType.default\:04_SPI_SD_CARD_NEW\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:04_SPI_SD_Card\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:04_SPI_SD_Card\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:05_QSPI_Flash\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:05_QSPI_Flash\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

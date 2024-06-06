@@ -1,0 +1,6 @@
+../Drivers/BSP/Component/Flash/FlashCircularBuffer.c:32:13:isDataAvailable	16	static
+../Drivers/BSP/Component/Flash/FlashCircularBuffer.c:42:13:isMemoryAvailable	16	static
+../Drivers/BSP/Component/Flash/FlashCircularBuffer.c:54:6:FlashCircularBufferInit	16	static
+../Drivers/BSP/Component/Flash/FlashCircularBuffer.c:157:12:WriteDatasetToFlash	48	static
+../Drivers/BSP/Component/Flash/FlashCircularBuffer.c:300:12:ReadDatasetFromFlash	40	static
+../Drivers/BSP/Component/Flash/FlashCircularBuffer.c:447:12:EraseFlashSector	24	static

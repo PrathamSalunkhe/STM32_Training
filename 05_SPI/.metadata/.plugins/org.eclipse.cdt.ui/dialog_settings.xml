@@ -5,6 +5,13 @@
 	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
 	</section>
 	<section name="OptionalMessageDialog.hide.">
-		<item key="askReindex.detail" value="0"/>
+		<item key="askReindex.detail" value="1"/>
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="temp_buff"/>
+		</list>
 	</section>
 </section>

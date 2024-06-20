@@ -1,0 +1,1408 @@
+2024-06-18 09:53:18,587 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 09:53:18,764 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-06-18 09:53:18,765 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-06-18 09:53:18,765 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-06-18 09:53:20,177 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-06-18 09:53:20,178 [INFO] DetailPanel:341 - Set advertising image to /home/dnk066/STM32Cube/Repository//en.prom-stm32h7rs-mcu-finder.jpg
+2024-06-18 09:53:26,447 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-06-18 09:53:26,572 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-06-18 09:53:26,572 [INFO] DetailPanel:341 - Set advertising image to /home/dnk066/STM32Cube/Repository//en.prom-stm32h7rs-mcu-finder.jpg
+2024-06-18 09:53:47,978 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 09:53:47,978 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 09:53:48,143 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-18 09:53:48,143 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-18 09:53:48,168 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-06-18 09:53:48,168 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-06-18 09:53:48,169 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-06-18 09:53:48,173 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-18 09:53:48,180 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 471538024 Bytes (1073741824)
+2024-06-18 09:53:48,181 [INFO] OpenFileManager:308 - Change cursor
+2024-06-18 09:53:48,204 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-06-18 09:53:48,210 [INFO] ProjectFactory:402 - No CPN specified for board NUCLEO-L4A6ZG => set CPN to STM32L4A6ZGT6
+2024-06-18 09:53:48,210 [INFO] Mcu:1937 - Initializing MCU STM32L4A6ZGTx STM32L4A6ZGTx STM32L4A6ZGT6
+2024-06-18 09:53:50,747 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-06-18 09:53:51,200 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-06-18 09:53:51,200 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-06-18 09:53:51,200 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-06-18 09:53:51,200 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-06-18 09:53:51,200 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-06-18 09:53:51,200 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-06-18 09:53:51,200 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB1 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB2 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB3 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB4 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-06-18 09:53:51,201 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-06-18 09:53:51,202 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule Rename SubGHz_Phy SUBGHZ_APPLICATION SUBGHZ_PINGPONG to SUBGHZ_ADV_APPLICATION is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for mcu.IP is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-06-18 09:53:51,203 [INFO] Rule:228 - rule GTZC_S instance for mcu is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule WakeUp0 Mode is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule WakeUp0 SIGNAL is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule WakeUp1 Mode is applicable
+2024-06-18 09:53:51,204 [INFO] Rule:228 - rule WakeUp1 SIGNAL is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule WakeUp2 Mode is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule WakeUp2 SIGNAL is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule WakeUp4 Mode is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule WakeUp4 SIGNAL is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule WakeUp5 Mode is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule WakeUp5 SIGNAL is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule Change Default Value for LSE Drive Capability for WB family is applicable
+2024-06-18 09:53:51,205 [INFO] Rule:228 - rule Change Default Value for ADC Clock Prescaler G0 family is applicable
+2024-06-18 09:53:51,206 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for I2C is applicable
+2024-06-18 09:53:51,206 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for SMBus is applicable
+2024-06-18 09:53:51,206 [INFO] Rule:228 - rule change FDCAN default value is applicable
+2024-06-18 09:53:51,209 [INFO] DbConfProperties:307 - Apply Compatibility (3/67 Rules)
+2024-06-18 09:53:51,451 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-06-18 09:53:51,451 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-06-18 09:53:51,451 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-06-18 09:53:51,451 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-06-18 09:53:51,451 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-06-18 09:53:51,464 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,465 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,466 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,467 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,467 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 09:53:51,621 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-06-18 09:53:54,138 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-06-18 09:53:54,570 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 677376168 Bytes (1073741824)
+2024-06-18 09:53:54,633 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-06-18 09:53:54,634 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-06-18 09:53:54,634 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-06-18 09:53:54,635 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-06-18 09:53:54,636 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.18.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-06-18 09:53:54,637 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-06-18 09:53:54,638 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-06-18 09:53:54,639 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-06-18 09:53:54,640 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-06-18 09:53:54,641 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-06-18 09:53:54,641 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-06-18 09:53:54,641 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-06-18 09:53:54,641 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-06-18 09:53:54,641 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-06-18 09:53:54,641 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-06-18 09:53:54,641 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-06-18 09:53:54,641 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-06-18 09:53:55,317 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-18 09:53:55,317 [INFO] PinOutPanel:1499 - setPackage(STM32L4A6ZGTx,LQFP144)
+2024-06-18 09:53:56,041 [INFO] UtilMem:75 - Before build in PCC Used Memory: 491963424 Bytes (1073741824)
+2024-06-18 09:53:56,414 [INFO] UtilMem:75 - After build in PCC Used Memory: 590529568 Bytes (1073741824)
+2024-06-18 09:53:56,462 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,464 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,464 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,464 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,464 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,464 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,465 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,465 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,465 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,465 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,465 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,465 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,466 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,466 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,466 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,466 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,466 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,467 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,467 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,468 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,468 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,468 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,468 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,469 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,469 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,469 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,470 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,470 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,471 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,471 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,471 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,472 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,472 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,472 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,473 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,473 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,474 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,474 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,474 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,474 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,475 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,476 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,476 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,476 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,477 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,477 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,477 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,477 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,477 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,478 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,479 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,480 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,481 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 09:53:56,504 [INFO] CADModel:165 - CPN selected for project levelSTM32L4A6ZGT6
+2024-06-18 09:53:56,504 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-18 09:53:56,575 [INFO] OpenFileManager:328 - Restore cursor
+2024-06-18 09:53:57,106 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 715957312 Bytes (1073741824)
+2024-06-18 09:53:57,199 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 749724872 Bytes (1073741824)
+2024-06-18 09:53:57,632 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 09:53:57,632 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 09:53:57,632 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 09:53:57,633 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 09:53:57,634 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 09:53:58,134 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 09:53:58,259 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 09:53:58,343 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 09:53:58,468 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 09:53:58,533 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 09:53:58,746 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 09:53:58,748 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 09:53:58,831 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 09:53:58,838 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 09:53:58,962 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 09:53:58,963 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 09:53:59,054 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 09:53:59,057 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 09:53:59,157 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 09:53:59,212 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 09:53:59,323 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 09:53:59,325 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 09:53:59,463 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 09:54:00,614 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 149mS.
+2024-06-18 09:54:00,616 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 09:54:01,158 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 09:54:01,175 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-06-18 09:54:01,233 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-06-18 09:54:01,665 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-06-18 09:54:01,721 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-06-18 09:54:01,741 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-06-18 09:54:08,701 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 8085mS.
+2024-06-18 09:54:08,702 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 09:54:08,703 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 09:54:09,331 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-06-18 09:54:09,334 [INFO] ApiDb:448 - Save user favorites file /home/dnk066/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-06-18 09:54:09,334 [INFO] ApiDb:452 - User favorites MCUs=[]
+2024-06-18 09:54:09,335 [INFO] ApiDb:448 - Save user favorites file /home/dnk066/.stm32cubeide/favorites.boards.txt: 4 item(s)
+2024-06-18 09:54:09,335 [INFO] ApiDb:452 - User favorites Boards=[NUCLEO-L496ZG-P, NUCLEO-L4A6ZG, NUCLEO-L4R5ZI, STM32L152C-DISCO]
+2024-06-18 09:55:24,973 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 09:57:10,144 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 09:57:12,542 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,26,325x600,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 09:57:15,067 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 09:57:29,765 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 09:57:29,942 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 09:57:32,460 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 09:57:32,506 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 09:57:34,713 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 09:57:41,766 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 09:57:41,892 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 09:57:44,687 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 09:58:14,799 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 832062760 Bytes (1073741824)
+2024-06-18 09:58:16,255 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 868236584 Bytes (1073741824)
+2024-06-18 09:58:17,851 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 482743456 Bytes (1073741824)
+2024-06-18 09:58:18,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 09:58:18,267 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 09:58:18,267 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 09:58:18,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 09:58:18,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 09:58:18,269 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 09:58:18,270 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 09:58:18,769 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 09:58:18,862 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 09:58:18,887 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 09:58:18,989 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 09:58:19,497 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 09:58:19,699 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 09:58:19,703 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 09:58:19,790 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 09:58:19,797 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 09:58:19,946 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 09:58:19,949 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 09:58:20,036 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 09:58:20,040 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 09:58:20,141 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 09:58:20,158 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 09:58:20,257 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 09:58:20,259 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 09:58:20,549 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 09:58:21,497 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 69mS.
+2024-06-18 09:58:21,500 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 09:58:22,147 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 09:58:24,964 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3464mS.
+2024-06-18 09:58:24,965 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-18 09:58:24,966 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-18 10:27:48,803 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 10:27:48,996 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 10:27:52,237 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 10:27:52,382 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 10:27:58,733 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 10:28:28,715 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 10:28:30,641 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 10:28:44,337 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 588746184 Bytes (1073741824)
+2024-06-18 10:28:45,901 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 628065736 Bytes (1073741824)
+2024-06-18 10:28:47,733 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 747081160 Bytes (1073741824)
+2024-06-18 10:28:48,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 10:28:48,247 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 10:28:48,247 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 10:28:48,247 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 10:28:48,247 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 10:28:48,248 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 10:28:48,249 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 10:28:48,573 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 10:28:48,692 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 10:28:48,722 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 10:28:48,855 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 10:28:49,007 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 10:28:49,504 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 10:28:49,507 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 10:28:49,640 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 10:28:49,647 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 10:28:49,879 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 10:28:49,880 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 10:28:49,967 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 10:28:49,971 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 10:28:50,214 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 10:28:50,228 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 10:28:50,340 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 10:28:50,341 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 10:28:50,474 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 10:28:51,299 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 173mS.
+2024-06-18 10:28:51,301 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 10:28:51,848 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 10:28:56,205 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4904mS.
+2024-06-18 10:28:56,207 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 10:28:56,208 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:00:42,960 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 765125432 Bytes (1073741824)
+2024-06-18 14:00:44,946 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 806019896 Bytes (1073741824)
+2024-06-18 14:00:47,607 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 444726904 Bytes (1073741824)
+2024-06-18 14:00:48,151 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 14:00:48,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 14:00:48,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 14:00:48,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 14:00:48,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 14:00:48,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 14:00:48,153 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 14:00:48,513 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 14:00:48,643 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 14:00:48,668 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 14:00:48,794 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 14:00:48,911 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 14:00:49,411 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 14:00:49,414 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 14:00:49,551 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 14:00:49,559 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 14:00:49,788 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 14:00:49,794 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 14:00:49,948 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 14:00:49,952 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 14:00:50,067 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 14:00:50,083 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 14:00:50,386 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 14:00:50,389 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 14:00:50,590 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 14:00:52,300 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 209mS.
+2024-06-18 14:00:52,303 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 14:00:53,099 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 14:00:56,639 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4336mS.
+2024-06-18 14:00:56,640 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-18 14:00:56,641 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:01:19,736 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 14:01:23,551 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,26,486x510,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 14:01:24,897 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 14:01:28,240 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 507091208 Bytes (1073741824)
+2024-06-18 14:01:30,013 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 504604056 Bytes (1073741824)
+2024-06-18 14:01:33,910 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 595830168 Bytes (1073741824)
+2024-06-18 14:01:34,500 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 14:01:34,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 14:01:34,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 14:01:34,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 14:01:34,502 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 14:01:34,502 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 14:01:34,503 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 14:01:34,896 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 14:01:35,024 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 14:01:35,051 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 14:01:35,189 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 14:01:35,443 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 14:01:35,652 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 14:01:35,654 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 14:01:35,814 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 14:01:35,824 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 14:01:36,015 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 14:01:36,017 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 14:01:36,129 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 14:01:36,132 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 14:01:36,246 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 14:01:36,266 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 14:01:36,387 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 14:01:36,388 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 14:01:36,717 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 14:01:38,551 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 78mS.
+2024-06-18 14:01:38,566 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 14:01:39,631 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 14:01:42,555 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3989mS.
+2024-06-18 14:01:42,565 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 10mS.
+2024-06-18 14:01:42,566 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:07:14,501 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 520637976 Bytes (1073741824)
+2024-06-18 14:07:17,649 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 645944856 Bytes (1073741824)
+2024-06-18 14:07:18,293 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 718296600 Bytes (1073741824)
+2024-06-18 14:07:18,778 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 14:07:18,778 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 14:07:18,778 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 14:07:18,779 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 14:07:18,779 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 14:07:18,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 14:07:18,780 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 14:07:19,212 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 14:07:19,333 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 14:07:19,360 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 14:07:19,469 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 14:07:19,599 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 14:07:19,760 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 14:07:19,765 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 14:07:20,010 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 14:07:20,021 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 14:07:20,182 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 14:07:20,184 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 14:07:20,279 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 14:07:20,283 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 14:07:20,396 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 14:07:20,413 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 14:07:20,522 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 14:07:20,524 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 14:07:20,695 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 14:07:22,043 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 157mS.
+2024-06-18 14:07:22,049 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 14:07:22,899 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 14:07:26,509 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4460mS.
+2024-06-18 14:07:26,510 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:07:26,511 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-18 14:27:08,273 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 625068064 Bytes (1073741824)
+2024-06-18 14:27:08,563 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 659144736 Bytes (1073741824)
+2024-06-18 14:27:11,454 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 826394656 Bytes (1073741824)
+2024-06-18 14:27:12,089 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 14:27:12,090 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 14:27:12,090 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 14:27:12,090 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 14:27:12,090 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 14:27:12,090 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 14:27:12,091 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 14:27:12,382 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 14:27:12,490 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 14:27:12,511 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 14:27:12,618 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 14:27:12,737 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 14:27:13,063 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 14:27:13,065 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 14:27:13,153 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 14:27:13,158 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 14:27:13,327 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 14:27:13,328 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 14:27:13,430 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 14:27:13,433 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 14:27:13,537 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 14:27:13,553 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 14:27:13,701 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 14:27:13,703 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 14:27:13,862 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 14:27:15,430 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 105mS.
+2024-06-18 14:27:15,433 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 14:27:16,589 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 14:27:20,118 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4684mS.
+2024-06-18 14:27:20,118 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:27:20,119 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:28:05,676 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 711191136 Bytes (1073741824)
+2024-06-18 14:28:06,009 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 745271904 Bytes (1073741824)
+2024-06-18 14:28:10,581 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 477552896 Bytes (1073741824)
+2024-06-18 14:28:11,072 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 14:28:11,072 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 14:28:11,072 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 14:28:11,072 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 14:28:11,072 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 14:28:11,073 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 14:28:11,073 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 14:28:11,494 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 14:28:11,596 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 14:28:11,623 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 14:28:11,754 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 14:28:11,979 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 14:28:12,107 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 14:28:12,109 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 14:28:12,269 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 14:28:12,280 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 14:28:12,557 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 14:28:12,561 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 14:28:12,791 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 14:28:12,796 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 14:28:12,953 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 14:28:12,977 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 14:28:13,106 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 14:28:13,108 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 14:28:13,317 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 14:28:14,706 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 57mS.
+2024-06-18 14:28:14,709 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 14:28:15,738 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 14:28:19,079 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4370mS.
+2024-06-18 14:28:19,080 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-18 14:28:19,084 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:37:54,875 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,554x58,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 14:38:03,007 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 14:38:10,855 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 14:38:10,994 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 14:38:28,788 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 14:38:31,151 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,26,310x510,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 14:38:35,745 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 867882696 Bytes (1073741824)
+2024-06-18 14:38:35,925 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 900388552 Bytes (1073741824)
+2024-06-18 14:38:36,531 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 949671624 Bytes (1073741824)
+2024-06-18 14:38:37,154 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 14:38:37,154 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 14:38:37,154 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 14:38:37,155 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 14:38:37,155 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 14:38:37,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 14:38:37,157 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 14:38:37,571 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 14:38:37,809 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 14:38:37,832 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 14:38:37,939 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 14:38:38,059 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 14:38:38,496 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 14:38:38,498 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 14:38:38,594 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 14:38:38,598 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 14:38:38,756 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 14:38:38,757 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 14:38:38,842 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 14:38:38,844 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 14:38:38,936 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 14:38:38,949 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 14:38:39,064 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 14:38:39,066 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 14:38:39,201 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 14:38:40,463 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 39mS.
+2024-06-18 14:38:40,465 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 14:38:41,307 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 14:38:44,136 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3671mS.
+2024-06-18 14:38:44,136 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 14:38:44,137 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:25:43,924 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 16:25:44,074 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-06-18 16:25:44,076 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-06-18 16:25:44,076 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-06-18 16:25:44,981 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-06-18 16:25:44,981 [INFO] DetailPanel:341 - Set advertising image to /home/dnk066/STM32Cube/Repository//en.prom-stm32h7rs-mcu-finder.jpg
+2024-06-18 16:25:48,322 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-06-18 16:25:48,440 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-06-18 16:25:48,440 [INFO] DetailPanel:341 - Set advertising image to /home/dnk066/STM32Cube/Repository//en.prom-stm32h7rs-mcu-finder.jpg
+2024-06-18 16:26:46,499 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 16:26:46,499 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 16:26:46,558 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-18 16:26:46,559 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-18 16:26:46,621 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-06-18 16:26:46,622 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-06-18 16:26:46,622 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-06-18 16:26:46,627 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-18 16:26:46,638 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 509569600 Bytes (1073741824)
+2024-06-18 16:26:46,640 [INFO] OpenFileManager:308 - Change cursor
+2024-06-18 16:26:46,668 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-06-18 16:26:46,675 [INFO] ProjectFactory:402 - No CPN specified for board NUCLEO-L4A6ZG => set CPN to STM32L4A6ZGT6
+2024-06-18 16:26:46,675 [INFO] Mcu:1937 - Initializing MCU STM32L4A6ZGTx STM32L4A6ZGTx STM32L4A6ZGT6
+2024-06-18 16:26:49,366 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB1 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB2 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB3 is applicable
+2024-06-18 16:26:50,071 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB4 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 16:26:50,072 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule Rename SubGHz_Phy SUBGHZ_APPLICATION SUBGHZ_PINGPONG to SUBGHZ_ADV_APPLICATION is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-06-18 16:26:50,073 [INFO] Rule:228 - rule GTZC_S instance for mcu.IP is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for mcu is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-06-18 16:26:50,074 [INFO] Rule:228 - rule WakeUp0 Mode is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp0 SIGNAL is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp1 Mode is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp1 SIGNAL is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp2 Mode is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp2 SIGNAL is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp4 Mode is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp4 SIGNAL is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp5 Mode is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule WakeUp5 SIGNAL is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule Change Default Value for LSE Drive Capability for WB family is applicable
+2024-06-18 16:26:50,075 [INFO] Rule:228 - rule Change Default Value for ADC Clock Prescaler G0 family is applicable
+2024-06-18 16:26:50,076 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for I2C is applicable
+2024-06-18 16:26:50,076 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for SMBus is applicable
+2024-06-18 16:26:50,076 [INFO] Rule:228 - rule change FDCAN default value is applicable
+2024-06-18 16:26:50,078 [INFO] DbConfProperties:307 - Apply Compatibility (3/67 Rules)
+2024-06-18 16:26:50,301 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-06-18 16:26:50,302 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-06-18 16:26:50,302 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-06-18 16:26:50,302 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-06-18 16:26:50,302 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-06-18 16:26:50,315 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,316 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,317 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 16:26:50,468 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-06-18 16:26:53,059 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-06-18 16:26:53,549 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 819582216 Bytes (1073741824)
+2024-06-18 16:26:53,593 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-06-18 16:26:53,594 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-06-18 16:26:53,594 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-06-18 16:26:53,595 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-06-18 16:26:53,596 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.18.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-06-18 16:26:53,597 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-06-18 16:26:53,598 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-06-18 16:26:53,599 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-06-18 16:26:53,600 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-06-18 16:26:53,600 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-06-18 16:26:53,600 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-06-18 16:26:53,600 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-06-18 16:26:53,600 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-06-18 16:26:53,600 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-06-18 16:26:53,600 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-06-18 16:26:53,601 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-06-18 16:26:53,601 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-06-18 16:26:54,104 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-18 16:26:54,106 [INFO] PinOutPanel:1499 - setPackage(STM32L4A6ZGTx,LQFP144)
+2024-06-18 16:26:54,553 [INFO] UtilMem:75 - Before build in PCC Used Memory: 627508944 Bytes (1073741824)
+2024-06-18 16:26:54,984 [INFO] UtilMem:75 - After build in PCC Used Memory: 726075088 Bytes (1073741824)
+2024-06-18 16:26:55,049 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,049 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,049 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,049 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,050 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,050 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,050 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,050 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,050 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,057 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,057 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,057 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,058 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,058 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,060 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,060 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,061 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,061 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,064 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,064 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,064 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,064 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,066 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,067 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,069 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,069 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,070 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 16:26:55,101 [INFO] CADModel:165 - CPN selected for project levelSTM32L4A6ZGT6
+2024-06-18 16:26:55,101 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-18 16:26:55,144 [INFO] OpenFileManager:328 - Restore cursor
+2024-06-18 16:26:55,896 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 851809464 Bytes (1073741824)
+2024-06-18 16:26:56,019 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 885724656 Bytes (1073741824)
+2024-06-18 16:26:56,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 16:26:56,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 16:26:56,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 16:26:56,591 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 16:26:56,591 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 16:26:56,921 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp_save
+2024-06-18 16:26:57,042 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp
+2024-06-18 16:26:57,140 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 16:26:57,257 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp
+2024-06-18 16:26:57,330 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 16:26:57,672 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 16:26:57,673 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 16:26:57,759 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 16:26:57,764 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 16:26:57,898 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 16:26:57,900 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp_save
+2024-06-18 16:26:57,992 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp
+2024-06-18 16:26:57,995 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 16:26:58,102 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 16:26:58,171 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h_save
+2024-06-18 16:26:58,347 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h
+2024-06-18 16:26:58,350 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c_save
+2024-06-18 16:26:58,491 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c
+2024-06-18 16:27:00,533 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 162mS.
+2024-06-18 16:27:00,535 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 16:27:03,409 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 16:27:03,430 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-06-18 16:27:03,526 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-06-18 16:27:03,941 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-06-18 16:27:03,999 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-06-18 16:27:04,127 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-06-18 16:27:10,071 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 9536mS.
+2024-06-18 16:27:10,072 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-18 16:27:10,075 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:27:11,063 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-06-18 16:27:11,067 [INFO] ApiDb:448 - Save user favorites file /home/dnk066/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-06-18 16:27:11,067 [INFO] ApiDb:452 - User favorites MCUs=[]
+2024-06-18 16:27:11,068 [INFO] ApiDb:448 - Save user favorites file /home/dnk066/.stm32cubeide/favorites.boards.txt: 4 item(s)
+2024-06-18 16:27:11,069 [INFO] ApiDb:452 - User favorites Boards=[NUCLEO-L496ZG-P, NUCLEO-L4A6ZG, NUCLEO-L4R5ZI, STM32L152C-DISCO]
+2024-06-18 16:30:06,194 [INFO] Gpio:273 - dependency for GPIO []
+2024-06-18 16:30:14,721 [INFO] Gpio:273 - dependency for GPIO []
+2024-06-18 16:30:14,761 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:30:28,138 [INFO] Gpio:273 - dependency for GPIO []
+2024-06-18 16:30:42,990 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:10,126 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:10,267 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:12,223 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:21,367 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:21,547 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:24,537 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:24,681 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:30,662 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:39,455 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:39,591 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:41,789 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:36:41,930 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:37:01,843 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 16:37:03,455 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,26,366x510,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 16:37:04,843 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 16:37:26,340 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 912153032 Bytes (1073741824)
+2024-06-18 16:37:26,496 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 944132552 Bytes (1073741824)
+2024-06-18 16:37:28,192 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 453615560 Bytes (1073741824)
+2024-06-18 16:37:28,900 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 16:37:28,901 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 16:37:28,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 16:37:28,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 16:37:28,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 16:37:28,904 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 16:37:28,905 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 16:37:29,198 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp_save
+2024-06-18 16:37:29,358 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp
+2024-06-18 16:37:29,390 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 16:37:29,541 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp
+2024-06-18 16:37:29,986 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 16:37:30,377 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 16:37:30,379 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 16:37:30,484 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 16:37:30,490 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 16:37:30,645 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 16:37:30,647 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp_save
+2024-06-18 16:37:30,731 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp
+2024-06-18 16:37:30,734 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 16:37:30,827 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 16:37:30,842 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h_save
+2024-06-18 16:37:30,958 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h
+2024-06-18 16:37:30,960 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c_save
+2024-06-18 16:37:31,124 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c
+2024-06-18 16:37:32,736 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 207mS.
+2024-06-18 16:37:32,739 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 16:37:33,558 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 16:37:36,868 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4129mS.
+2024-06-18 16:37:36,870 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:37:36,871 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:43:10,886 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 800567368 Bytes (1073741824)
+2024-06-18 16:43:11,052 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 832546888 Bytes (1073741824)
+2024-06-18 16:43:11,725 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 510229320 Bytes (1073741824)
+2024-06-18 16:43:12,295 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 16:43:12,295 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 16:43:12,295 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 16:43:12,295 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 16:43:12,295 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 16:43:12,296 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 16:43:12,296 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 16:43:12,724 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp_save
+2024-06-18 16:43:12,852 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp
+2024-06-18 16:43:12,879 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 16:43:12,977 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp
+2024-06-18 16:43:13,106 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 16:43:13,253 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 16:43:13,255 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 16:43:13,439 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 16:43:13,443 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 16:43:13,570 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 16:43:13,572 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp_save
+2024-06-18 16:43:13,659 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp
+2024-06-18 16:43:13,662 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 16:43:13,759 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 16:43:13,773 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h_save
+2024-06-18 16:43:13,870 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h
+2024-06-18 16:43:13,872 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c_save
+2024-06-18 16:43:14,010 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c
+2024-06-18 16:43:15,428 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 61mS.
+2024-06-18 16:43:15,430 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 16:43:16,137 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 16:43:19,508 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4078mS.
+2024-06-18 16:43:19,509 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:43:19,510 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:43:57,206 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 808019576 Bytes (1073741824)
+2024-06-18 16:43:57,352 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 839999096 Bytes (1073741824)
+2024-06-18 16:43:57,943 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 495070448 Bytes (1073741824)
+2024-06-18 16:43:58,534 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 16:43:58,534 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 16:43:58,534 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 16:43:58,535 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 16:43:58,535 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 16:43:58,535 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 16:43:58,536 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 16:43:58,981 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp_save
+2024-06-18 16:43:59,096 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/license.tmp
+2024-06-18 16:43:59,119 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 16:43:59,249 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/gpio.tmp
+2024-06-18 16:43:59,370 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 16:43:59,527 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 16:43:59,529 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 16:43:59,653 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 16:43:59,659 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 16:43:59,802 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 16:43:59,803 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp_save
+2024-06-18 16:43:59,886 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/MXTmpFiles/system.tmp
+2024-06-18 16:43:59,889 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 16:43:59,985 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 16:43:59,999 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h_save
+2024-06-18 16:44:00,093 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Inc/main.h
+2024-06-18 16:44:00,095 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c_save
+2024-06-18 16:44:00,223 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/05_New_Example/Core/Src/main.c
+2024-06-18 16:44:01,936 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 50mS.
+2024-06-18 16:44:01,939 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 16:44:02,704 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 16:44:05,656 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3718mS.
+2024-06-18 16:44:05,658 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 2mS.
+2024-06-18 16:44:05,659 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 17:02:23,731 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 17:02:23,731 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-18 17:02:23,786 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-18 17:02:23,786 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-18 17:02:23,805 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-06-18 17:02:23,805 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-06-18 17:02:23,805 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-06-18 17:02:23,810 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-18 17:02:23,818 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 480878760 Bytes (1073741824)
+2024-06-18 17:02:23,818 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-18 17:02:23,819 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-18 17:02:23,819 [INFO] OpenFileManager:308 - Change cursor
+2024-06-18 17:02:23,842 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-06-18 17:02:23,848 [INFO] Mcu:1937 - Initializing MCU STM32L4A6ZGTx STM32L4A6ZGTx STM32L4A6ZGT6
+2024-06-18 17:02:26,447 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-06-18 17:02:27,207 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-06-18 17:02:27,207 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-06-18 17:02:27,207 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-06-18 17:02:27,207 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-06-18 17:02:27,208 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,222 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,223 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,224 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,224 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,224 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,224 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,224 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-18 17:02:27,384 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-06-18 17:02:29,813 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-06-18 17:02:30,241 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 746533896 Bytes (1073741824)
+2024-06-18 17:02:30,305 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-06-18 17:02:30,305 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-06-18 17:02:30,305 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-06-18 17:02:30,306 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-06-18 17:02:30,307 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-06-18 17:02:30,309 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.18.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-06-18 17:02:30,310 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-06-18 17:02:30,311 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-06-18 17:02:30,312 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-06-18 17:02:30,313 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-06-18 17:02:30,314 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-06-18 17:02:30,813 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-18 17:02:30,814 [INFO] PinOutPanel:1499 - setPackage(STM32L4A6ZGTx,LQFP144)
+2024-06-18 17:02:31,268 [INFO] UtilMem:75 - Before build in PCC Used Memory: 449617136 Bytes (1073741824)
+2024-06-18 17:02:31,681 [INFO] UtilMem:75 - After build in PCC Used Memory: 548183280 Bytes (1073741824)
+2024-06-18 17:02:31,735 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,735 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,735 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,735 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,735 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,736 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,736 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,736 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,736 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,737 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,737 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,737 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,737 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,738 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,738 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,738 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,738 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,739 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,739 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,739 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,739 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,739 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,740 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,740 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,741 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,741 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,741 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,742 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,742 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,742 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,743 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,743 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,743 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,744 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,744 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,745 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,745 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,746 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,746 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,747 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,747 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,747 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,748 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,749 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,749 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,749 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,749 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,749 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,749 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,749 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,750 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,750 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,750 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,750 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,750 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,751 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,751 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,751 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,751 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,752 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,752 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,752 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,753 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,754 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,755 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,755 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-18 17:02:31,887 [INFO] CADModel:165 - CPN selected for project levelSTM32L4A6ZGT6
+2024-06-18 17:02:31,887 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-18 17:02:31,948 [INFO] OpenFileManager:328 - Restore cursor
+2024-06-18 17:02:35,446 [INFO] Gpio:273 - dependency for GPIO [LPUART1]
+2024-06-18 17:02:53,108 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,26,367x510,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-18 17:02:56,458 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 780548728 Bytes (1073741824)
+2024-06-18 17:02:56,607 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 812532344 Bytes (1073741824)
+2024-06-18 17:02:57,246 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 864961144 Bytes (1073741824)
+2024-06-18 17:02:57,679 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 17:02:57,680 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 17:02:57,680 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 17:02:57,680 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 17:02:57,680 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 17:02:57,680 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 17:02:57,681 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 17:02:57,958 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 17:02:58,065 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 17:02:58,115 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 17:02:58,232 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 17:02:58,750 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 17:02:59,066 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 17:02:59,068 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 17:02:59,191 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 17:02:59,196 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 17:02:59,369 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 17:02:59,371 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 17:02:59,459 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 17:02:59,462 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 17:02:59,556 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 17:02:59,604 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 17:02:59,718 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 17:02:59,720 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 17:02:59,866 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 17:03:01,090 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 68mS.
+2024-06-18 17:03:01,093 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 17:03:02,165 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 17:03:02,215 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-06-18 17:03:02,317 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-06-18 17:03:02,996 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-06-18 17:03:03,076 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-06-18 17:03:03,099 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-06-18 17:03:05,642 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 4548mS.
+2024-06-18 17:03:05,642 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 17:03:05,643 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 17:05:49,886 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 729167296 Bytes (1073741824)
+2024-06-18 17:05:50,404 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 771110336 Bytes (1073741824)
+2024-06-18 17:05:51,010 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 17:05:51,010 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 17:05:51,010 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-06-18 17:05:51,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-06-18 17:05:51,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 17:05:51,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 17:05:51,012 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-18 17:05:51,333 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp_save
+2024-06-18 17:05:51,426 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/license.tmp
+2024-06-18 17:05:51,456 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp_save
+2024-06-18 17:05:51,566 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/gpio.tmp
+2024-06-18 17:05:51,686 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c_save
+2024-06-18 17:05:51,823 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_it.c
+2024-06-18 17:05:51,825 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h_save
+2024-06-18 17:05:52,031 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_it.h
+2024-06-18 17:05:52,036 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-18 17:05:52,216 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/stm32l4xx_hal_msp.c
+2024-06-18 17:05:52,218 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp_save
+2024-06-18 17:05:52,342 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/MXTmpFiles/system.tmp
+2024-06-18 17:05:52,345 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-18 17:05:52,482 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-18 17:05:52,503 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h_save
+2024-06-18 17:05:52,636 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Inc/main.h
+2024-06-18 17:05:52,638 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c_save
+2024-06-18 17:05:52,835 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes/04_Example/Core/Src/main.c
+2024-06-18 17:05:54,152 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 41mS.
+2024-06-18 17:05:54,155 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-18 17:05:54,709 [INFO] ConfigFileManager:1483 - The Die is : DIE461
+2024-06-18 17:05:57,260 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3105mS.
+2024-06-18 17:05:57,260 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-18 17:05:57,271 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

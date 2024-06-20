@@ -21,7 +21,6 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "string.h"
 #include "stdio.h"
 /* USER CODE END Includes */
 
@@ -67,7 +66,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 		SystemClock_Config();
 		HAL_ResumeTick();
 		printf("Woke up from STOP MODE by EXTI\r\n");
-		HAL_PWR_DisableSleepOnExit();
+//		HAL_PWR_DisableSleepOnExit();
 	}
 }
 
@@ -111,68 +110,69 @@ int main(void)
   MX_RTC_Init();
   /* USER CODE BEGIN 2 */
 
-  printf("Going into the STOP MODE\r\n");
-  for(int i=0; i<20; i++)
-  {
-	  HAL_GPIO_TogglePin(BSP_USER_LED_GPIO_Port, BSP_USER_LED_Pin);
-	  HAL_Delay(200);
-  }
 
-  /*** RTC wake up timer ***/
-
-  /*## Configure the Wake up timer ###########################################*/
-  /*  RTC Wake-up Interrupt Generation:
-      Wake-up Time Base = (RTC_WAKEUPCLOCK_RTCCLK_DIV /(LSI))
-      ==> WakeUpCounter = Wake-up Time / Wake-up Time Base
-
-      To configure the wake up timer to 20s the WakeUpCounter is set to 0xA017:
-      for 10s ==> WakeUpCounter = 0x4E20
-      for 5s  ==> WakeUpCounter = 0x2710
-        RTC_WAKEUPCLOCK_RTCCLK_DIV = RTCCLK_Div16 = 16
-        Wake-up Time Base = 16 /(32KHz) = 0.0005 seconds
-        ==> WakeUpCounter = ~20s/0.0005s = 40000 = 0xA017
-        ==> WakeUpCounter = ~10s/0.0005s = 20000 = 0x4E20
-        ==> WakeUpCounter = ~5s/0.0005s = 10000 = 0x2710 */
-
-  if (HAL_RTCEx_SetWakeUpTimer_IT(&hrtc, 0x2710, RTC_WAKEUPCLOCK_RTCCLK_DIV16) != HAL_OK)
-  {
-    Error_Handler();
-  }
-
-  /*** suspend the systick before going into stop mode ***/
-  HAL_SuspendTick();
-
-  /*** enable sleep on exit for only interrupt operations ***/
-  HAL_PWR_EnableSleepOnExit();
-
-  /*** enter the stop mode ***/
-  HAL_PWREx_EnterSTOP2Mode(PWR_STOPENTRY_WFI);
-
-  /*** wake up from stop mode ***/
-
-  /*** disable rtc wake up ***/
-  HAL_RTCEx_DeactivateWakeUpTimer(&hrtc);
-
-
-  /*** returned from stop mode ***/
-
-  printf("Woke up from STOP MODE in main loop\r\n");
-  for(int i=0; i<10; i++)
-    {
-  	  HAL_GPIO_TogglePin(BSP_USER_LED_GPIO_Port, BSP_USER_LED_Pin);
-  	  HAL_Delay(1000);
-    }
 
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-	while (1)
-	{
-		/* USER CODE END WHILE */
+  while (1)
+  {
+    /* USER CODE END WHILE */
 
-		/* USER CODE BEGIN 3 */
-	}
+    /* USER CODE BEGIN 3 */
+	  printf("Going into the STOP MODE\r\n");
+	  for(int i=0; i<20; i++)
+	  {
+		  HAL_GPIO_TogglePin(BSP_USER_LED_GPIO_Port, BSP_USER_LED_Pin);
+		  HAL_Delay(200);
+	  }
+
+	  /*** RTC wake up timer ***/
+
+	  /*## Configure the Wake up timer ###########################################*/
+	  /*  RTC Wake-up Interrupt Generation:
+	      Wake-up Time Base = (RTC_WAKEUPCLOCK_RTCCLK_DIV /(LSI))
+	      ==> WakeUpCounter = Wake-up Time / Wake-up Time Base
+
+	      To configure the wake up timer to 20s the WakeUpCounter is set to 0xA017:
+	      for 10s ==> WakeUpCounter = 0x4E20
+	      for 5s  ==> WakeUpCounter = 0x2710
+	        RTC_WAKEUPCLOCK_RTCCLK_DIV = RTCCLK_Div16 = 16
+	        Wake-up Time Base = 16 /(32KHz) = 0.0005 seconds
+	        ==> WakeUpCounter = ~20s/0.0005s = 40000 = 0xA017
+	        ==> WakeUpCounter = ~10s/0.0005s = 20000 = 0x4E20
+	        ==> WakeUpCounter = ~5s/0.0005s = 10000 = 0x2710 */
+
+	  if (HAL_RTCEx_SetWakeUpTimer_IT(&hrtc, 0x4E20, RTC_WAKEUPCLOCK_RTCCLK_DIV16) != HAL_OK)
+	  {
+	    Error_Handler();
+	  }
+
+	  /*** suspend the systick before going into stop mode ***/
+	  HAL_SuspendTick();
+
+	  /*** enable sleep on exit for only interrupt operations ***/
+	//  HAL_PWR_EnableSleepOnExit();
+
+	  /*** enter the stop mode ***/
+	  HAL_PWREx_EnterSTOP2Mode(PWR_STOPENTRY_WFI);
+
+	  /*** wake up from stop mode ***/
+
+	  /*** disable rtc wake up ***/
+	  HAL_RTCEx_DeactivateWakeUpTimer(&hrtc);
+
+
+	  /*** returned from stop mode ***/
+
+	  printf("Woke up from STOP MODE in main loop\r\n");
+	  for(int i=0; i<10; i++)
+	    {
+	  	  HAL_GPIO_TogglePin(BSP_USER_LED_GPIO_Port, BSP_USER_LED_Pin);
+	  	  HAL_Delay(1000);
+	    }
+  }
   /* USER CODE END 3 */
 }
 
@@ -287,10 +287,10 @@ static void MX_RTC_Init(void)
 
   /** Enable the WakeUp
   */
-  if (HAL_RTCEx_SetWakeUpTimer_IT(&hrtc, 0, RTC_WAKEUPCLOCK_RTCCLK_DIV16) != HAL_OK)
-  {
-    Error_Handler();
-  }
+//  if (HAL_RTCEx_SetWakeUpTimer_IT(&hrtc, 0, RTC_WAKEUPCLOCK_RTCCLK_DIV16) != HAL_OK)
+//  {
+//    Error_Handler();
+//  }
   /* USER CODE BEGIN RTC_Init 2 */
 
   /* USER CODE END RTC_Init 2 */

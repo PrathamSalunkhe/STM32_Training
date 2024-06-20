@@ -1,0 +1,10 @@
+18:16:58 **** Incremental Build of configuration Debug for project 01_USB_CDC_Virtual_COM_Port ****
+make -j4 all 
+arm-none-eabi-size   01_USB_CDC_Virtual_COM_Port.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29352	    408	   8736	  38496	   9660	01_USB_CDC_Virtual_COM_Port.elf
+Finished building: default.size.stdout
+ 
+
+18:16:58 Build Finished. 0 errors, 0 warnings. (took 500ms)
+

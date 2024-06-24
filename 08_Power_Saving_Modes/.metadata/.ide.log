@@ -1,8 +1,1202 @@
-2024-06-20 13:32:13,250 [INFO] Activator:176 - 
-
-
-2024-06-20 13:32:13,256 [INFO] Activator:177 - !SESSION log4j initialized
-2024-06-20 13:32:20,568 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
-2024-06-20 13:32:42,482 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-2024-06-20 13:32:42,482 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
-2024-06-20 13:32:42,483 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024-06-22 00:09:08,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 12:08:59 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 00:09:09,733 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 00:09:09,733 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 00:25:30,405 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 12:24:57 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 00:25:38,615 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 00:25:47,673 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 00:34:05,893 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 12:33:48 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 00:34:06,747 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 00:34:10,115 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 00:38:08,100 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 12:37:08 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 00:38:25,113 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 00:38:50,502 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 00:48:11,801 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 12:47:05 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 00:48:42,280 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 00:48:52,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 00:57:40,733 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 12:57:20 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 00:58:14,479 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 00:58:49,645 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 01:07:23,147 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 1:02:41 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 01:09:30,064 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 01:11:52,522 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 01:19:01,867 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 1:12:26 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 01:26:38,583 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 01:33:02,329 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 01:50:41,810 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 22, 2024 1:36:23 AM java.util.prefs.FileSystemPreferences syncWorld
+2024-06-22 02:35:24,019 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush user prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2024-06-22 02:35:24,031 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-22 10:02:37,289 [INFO] ApplicationProperties:184 - Using Application install path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431
+2024-06-22 10:02:37,308 [INFO] DbMcusXml:78 - Set database path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//mcu/
+2024-06-22 10:02:37,309 [INFO] ApiDb:274 - Set plugin database path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//plugins/boardmanager/
+2024-06-22 10:02:37,316 [WARN] ApiDb:259 - Overriding images path with different value:  => /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//plugins/mcufinder/images/
+2024-06-22 10:02:37,370 [INFO] ApiDb:250 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/
+2024-06-22 10:02:37,373 [INFO] DbMcusAds:125 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/
+2024-06-22 10:02:37,428 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/cs/
+2024-06-22 10:02:37,571 [INFO] DbMcusXml:78 - Set database path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//mcu/
+2024-06-22 10:02:37,571 [INFO] ApiDb:274 - Set plugin database path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//plugins/boardmanager/
+2024-06-22 10:02:37,571 [INFO] ApiDb:261 - Set plugin images path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//plugins/mcufinder/images/
+2024-06-22 10:02:37,572 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,572 [INFO] ApiDb:250 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/
+2024-06-22 10:02:37,572 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,572 [INFO] DbMcusAds:125 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/
+2024-06-22 10:02:37,573 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,573 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,573 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/cs/
+2024-06-22 10:02:37,711 [INFO] MainPanel:253 - HeapMemory: 639631360
+2024-06-22 10:02:37,932 [INFO] DbMcusXml:78 - Set database path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//mcu/
+2024-06-22 10:02:37,933 [INFO] ApiDb:274 - Set plugin database path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//plugins/boardmanager/
+2024-06-22 10:02:37,933 [INFO] ApiDb:261 - Set plugin images path to: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db//plugins/mcufinder/images/
+2024-06-22 10:02:37,934 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,935 [INFO] ApiDb:250 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/
+2024-06-22 10:02:37,935 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,935 [INFO] DbMcusAds:125 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/
+2024-06-22 10:02:37,935 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,935 [WARN] DbFile:41 - Overriding database path with different value: /home/dnk066/.stmcufinder/plugins/mcufinder/ => /home/dnk066/.stmcufinder/plugins/mcufinder
+2024-06-22 10:02:37,936 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /home/dnk066/.stmcufinder/plugins/mcufinder//mcu/cs/
+2024-06-22 10:02:37,978 [INFO] ApplicationProperties:184 - Using Application install path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431
+2024-06-22 10:02:37,985 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2024-06-22 10:02:37,989 [INFO] PluginManage:310 - Check plugin analytics
+2024-06-22 10:02:38,518 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2024-06-22 10:02:38,518 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2024-06-22 10:02:38,518 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: FW.WL.1.3.0
+2024-06-22 10:02:38,534 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2024-06-22 10:02:38,535 [INFO] PluginManage:310 - Check plugin cadmodel
+2024-06-22 10:02:38,725 [INFO] CADModel:105 - Init CAD model plugin
+2024-06-22 10:02:38,725 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2024-06-22 10:02:38,726 [INFO] PluginManage:310 - Check plugin clock
+2024-06-22 10:02:38,749 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2024-06-22 10:02:38,749 [INFO] PluginManage:310 - Check plugin ddr
+2024-06-22 10:02:38,754 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2024-06-22 10:02:38,755 [INFO] PluginManage:310 - Check plugin filemanager
+2024-06-22 10:02:39,038 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2024-06-22 10:02:39,038 [INFO] PluginManage:310 - Check plugin ipmanager
+2024-06-22 10:02:39,050 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2024-06-22 10:02:39,050 [INFO] PluginManage:310 - Check plugin lpbam
+2024-06-22 10:02:39,070 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2024-06-22 10:02:39,070 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2024-06-22 10:02:39,085 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2024-06-22 10:02:39,085 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2024-06-22 10:02:39,288 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2024-06-22 10:02:39,619 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2024-06-22 10:02:39,619 [INFO] PluginManage:310 - Check plugin power
+2024-06-22 10:02:39,641 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2024-06-22 10:02:39,642 [INFO] PluginManage:310 - Check plugin projectmanager
+2024-06-22 10:02:39,667 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2024-06-22 10:02:39,667 [INFO] PluginManage:310 - Check plugin thirdparty
+2024-06-22 10:02:39,929 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2024-06-22 10:02:39,930 [INFO] PluginManage:310 - Check plugin tools
+2024-06-22 10:02:39,935 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2024-06-22 10:02:39,935 [INFO] PluginManage:310 - Check plugin tutovideos
+2024-06-22 10:02:39,936 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2024-06-22 10:02:39,942 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2024-06-22 10:02:39,947 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2024-06-22 10:02:40,288 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2024-06-22 10:02:40,288 [INFO] PluginManage:310 - Check plugin updater
+2024-06-22 10:02:40,315 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2024-06-22 10:02:40,318 [INFO] PluginManage:283 - PluginManage : Loaded plugins [15]
+2024-06-22 10:02:40,901 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-22 10:02:41,034 [INFO] CADModel:165 - CPN selected for project level
+2024-06-22 10:02:41,035 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-22 10:02:41,068 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,068 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2024-06-22 10:02:41,086 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,087 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2024-06-22 10:02:41,093 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,094 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2024-06-22 10:02:41,100 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,100 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2024-06-22 10:02:41,105 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,105 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2024-06-22 10:02:41,111 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,112 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2024-06-22 10:02:41,127 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,129 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2024-06-22 10:02:41,150 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,151 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2024-06-22 10:02:41,162 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,163 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2024-06-22 10:02:41,168 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,169 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2024-06-22 10:02:41,174 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,174 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2024-06-22 10:02:41,185 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,186 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2024-06-22 10:02:41,200 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,201 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2024-06-22 10:02:41,208 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,209 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2024-06-22 10:02:41,230 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,231 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2024-06-22 10:02:41,234 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,234 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2024-06-22 10:02:41,239 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,239 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2024-06-22 10:02:41,257 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,257 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2024-06-22 10:02:41,276 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,276 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2024-06-22 10:02:41,282 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,282 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2024-06-22 10:02:41,299 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,300 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2024-06-22 10:02:41,303 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,303 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2024-06-22 10:02:41,307 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,307 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2024-06-22 10:02:41,319 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,319 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2024-06-22 10:02:41,322 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,323 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2024-06-22 10:02:41,329 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,330 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2024-06-22 10:02:41,336 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,336 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2024-06-22 10:02:41,341 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,342 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2024-06-22 10:02:41,352 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,353 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2024-06-22 10:02:41,358 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,358 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2024-06-22 10:02:41,374 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,381 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2024-06-22 10:02:41,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,387 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2024-06-22 10:02:41,392 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,393 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2024-06-22 10:02:41,398 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,398 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2024-06-22 10:02:41,405 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,406 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2024-06-22 10:02:41,411 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,412 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2024-06-22 10:02:41,415 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,415 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2024-06-22 10:02:41,422 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,422 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2024-06-22 10:02:41,428 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,428 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2024-06-22 10:02:41,431 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,432 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2024-06-22 10:02:41,435 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,436 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2024-06-22 10:02:41,442 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,442 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2024-06-22 10:02:41,457 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:02:41,457 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2024-06-22 10:02:41,615 [INFO] CADModel:165 - CPN selected for project level
+2024-06-22 10:02:41,617 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-22 10:02:41,618 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:41,618 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2024-06-22 10:02:42,015 [INFO] CADModel:165 - CPN selected for project level
+2024-06-22 10:02:42,015 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-22 10:02:42,016 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,016 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2024-06-22 10:02:42,025 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,259 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,273 [INFO] DbMcusAds:53 - JSON generation date=Thu May 16 14:52:00 IST 2024 (1715851320852)
+2024-06-22 10:02:42,273 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,465 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-06-22 10:02:42,707 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,710 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,711 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,711 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-06-22 10:02:42,713 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-06-22 10:02:42,792 [ERROR] Updater:1120 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2024-06-22 10:02:42,797 [INFO] Updater:1056 - Updater Version found : 6.8.1
+2024-06-22 10:02:42,840 [INFO] ApplicationProperties:184 - Using Application install path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431
+2024-06-22 10:02:42,947 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [2/15]
+2024-06-22 10:02:43,122 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-22 10:02:43,128 [INFO] MainUpdater:283 - Updater Check For Update Now.
+2024-06-22 10:02:43,166 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-22 10:02:43,455 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2024-06-22 10:02:43,596 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-22 10:02:43,597 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-22 10:02:43,670 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-22 10:02:43,673 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-22 10:02:43,675 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-06-22 10:02:46,246 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2024-06-22 10:02:46,264 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2024-06-22 10:02:46,272 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.23.2
+2024-06-22 10:02:46,355 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2024-06-22 10:02:46,368 [ERROR] RealEvaluatedCondition:428 - Found unsupported composite condition: CLASS='Data Exchange' GROUP='STM32_MetaDataManager'
+2024-06-22 10:02:46,369 [ERROR] RealEvaluatedCondition:428 - Found unsupported composite condition: GROUP='STM32_MetaDataManager' CLASS='Data Exchange'
+2024-06-22 10:02:46,370 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.4.3.0
+2024-06-22 10:02:46,381 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.4.3.2
+2024-06-22 10:02:46,389 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.0
+2024-06-22 10:02:46,396 [ERROR] RealEvaluatedCondition:428 - Found unsupported composite condition: GROUP='STM32_MetaDataManager' CLASS='Data Exchange'
+2024-06-22 10:02:46,397 [ERROR] RealEvaluatedCondition:428 - Found unsupported composite condition: CLASS='Data Exchange' GROUP='STM32_MetaDataManager'
+2024-06-22 10:02:46,399 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.4.3.1
+2024-06-22 10:02:46,406 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.1
+2024-06-22 10:02:46,417 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.2.4
+2024-06-22 10:02:46,424 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.2
+2024-06-22 10:02:46,435 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2024-06-22 10:02:46,449 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.0.0
+2024-06-22 10:02:46,454 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.22.0
+2024-06-22 10:02:46,457 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.22.1
+2024-06-22 10:02:46,476 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.3.1.0
+2024-06-22 10:02:46,490 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2024-06-22 10:02:46,540 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-06-22 10:02:46,542 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-06-22 10:02:46,543 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-06-22 10:02:46,543 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-06-22 10:02:46,543 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2024-06-22 10:02:46,549 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2024-06-22 10:02:46,564 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2024-06-22 10:02:46,583 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.3.0
+2024-06-22 10:02:46,594 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2024-06-22 10:02:46,618 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.1.0
+2024-06-22 10:02:46,629 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.21.3
+2024-06-22 10:02:46,637 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.21.4
+2024-06-22 10:02:46,663 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.3.0
+2024-06-22 10:02:46,706 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2024-06-22 10:02:46,733 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2024-06-22 10:02:46,748 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2024-06-22 10:02:46,755 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.18.0
+2024-06-22 10:02:46,761 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2024-06-22 10:02:46,772 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.1.0
+2024-06-22 10:02:46,883 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2024-06-22 10:02:47,004 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2024-06-22 10:02:47,013 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.6.0.0
+2024-06-22 10:02:47,040 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2024-06-22 10:02:47,050 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.6.0
+2024-06-22 10:02:47,057 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.2.0
+2024-06-22 10:02:47,084 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2024-06-22 10:02:47,202 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.6.0
+2024-06-22 10:02:47,695 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2024-06-22 10:02:47,703 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.8.0
+2024-06-22 10:02:47,712 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.1.3
+2024-06-22 10:02:47,766 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.2.0.0
+2024-06-22 10:02:47,771 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.9.0.0
+2024-06-22 10:02:47,800 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:47,801 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:47,810 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.1.0
+2024-06-22 10:02:47,813 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:47,813 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:47,815 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:47,817 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:47,817 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:47,829 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.1
+2024-06-22 10:02:47,838 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.0
+2024-06-22 10:02:47,855 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.0.0
+2024-06-22 10:02:47,892 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.4.1.0
+2024-06-22 10:02:47,904 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.8.1.0
+2024-06-22 10:02:47,943 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-06-22 10:02:47,944 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2024-06-22 10:02:47,948 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-06-22 10:02:47,949 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-06-22 10:02:47,951 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2024-06-22 10:02:48,015 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2024-06-22 10:02:48,039 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.1.1.0
+2024-06-22 10:02:48,047 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.8.0.0
+2024-06-22 10:02:48,090 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:48,090 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:48,095 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2024-06-22 10:02:48,097 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:48,097 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:48,098 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:48,099 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:48,099 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2024-06-22 10:02:48,107 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.0.1
+2024-06-22 10:02:48,139 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.1.1.0
+2024-06-22 10:02:48,151 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.8.0.1
+2024-06-22 10:02:48,169 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2024-06-22 10:02:48,199 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.3.1
+2024-06-22 10:02:48,274 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2024-06-22 10:02:48,300 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.3.0
+2024-06-22 10:02:48,351 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.1.0.0
+2024-06-22 10:02:48,362 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.0.0
+2024-06-22 10:02:48,368 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2024-06-22 10:02:48,472 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.10.0.0
+2024-06-22 10:02:48,829 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.1.0
+2024-06-22 10:02:48,849 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.1.0.0
+2024-06-22 10:02:48,858 [WARN] PackLoader:240 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2024-06-22 10:02:48,863 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.1
+2024-06-22 10:02:48,888 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.1.1.0
+2024-06-22 10:02:48,959 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.0.0
+2024-06-22 10:02:48,971 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.0
+2024-06-22 10:02:48,989 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.1
+2024-06-22 10:02:49,029 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.2.0
+2024-06-22 10:02:49,087 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.6.0
+2024-06-22 10:02:49,100 [INFO] ThirdParty:978 - Integrity check success = true
+2024-06-22 10:02:49,101 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2024-06-22 10:02:49,101 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-06-22 10:02:49,103 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-06-22 10:02:49,107 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2024-06-22 10:02:49,110 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-22 10:02:49,124 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 617695608 Bytes (729808896)
+2024-06-22 10:02:49,128 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-22 10:02:49,129 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-22 10:02:49,129 [INFO] OpenFileManager:308 - Change cursor
+2024-06-22 10:02:49,431 [INFO] Mcu:1937 - Initializing MCU STM32L476V(C-E-G)Tx STM32L476VGTx STM32L476VGT3
+2024-06-22 10:02:54,747 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-06-22 10:02:57,174 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-06-22 10:02:57,175 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-06-22 10:02:57,175 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-06-22 10:02:57,175 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-06-22 10:02:57,176 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-06-22 10:02:57,286 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,286 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,287 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,287 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,287 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,287 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,287 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,287 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,287 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,288 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,288 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,288 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,288 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,288 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,288 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,288 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,289 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,289 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,289 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,289 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,289 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,289 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,289 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,290 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,290 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,290 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,290 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,290 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,291 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,291 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,291 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,291 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:57,291 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 10:02:58,503 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-06-22 10:03:00,240 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-06-22 10:03:00,303 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-06-22 10:03:00,939 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 726137800 Bytes (904921088)
+2024-06-22 10:03:01,266 [INFO] ApiDb:581 - Connected to CubeFinder SQLite database (/home/dnk066/.stmcufinder/plugins/mcufinder/mcu/cube-finder-db.db)
+2024-06-22 10:03:01,481 [INFO] ApiDb:668 - CubeFinder database Data Model version=2.1
+2024-06-22 10:03:01,481 [INFO] ApiDb:669 - CubeFinder database Configuration version=3.0.39
+2024-06-22 10:03:01,482 [INFO] ApiDb:670 - CubeFinder database generation date=2024-06-06 (1717689626)
+2024-06-22 10:03:01,482 [INFO] ApiDb:671 - CubeFinder database FW Pack versions=[FP-ATR-ASTRA1_V2.0.0, FP-SNS-FLIGHT1_V5.0.2, FP-SNS-MOTENV1_V5.0.0, FP-SNS-MOTENVWB1_V1.4.0, FP-SNS-SMARTAG2_V1.2.0, STM32Cube_FW_C0_V1.2.0, STM32Cube_FW_F4_V1.28.0, STM32Cube_FW_F7_V1.17.2, STM32Cube_FW_G0_V1.6.2, STM32Cube_FW_G4_V1.6.0, STM32Cube_FW_H5_V1.3.0, STM32Cube_FW_H7RS_V1.1.0, STM32Cube_FW_H7_V1.11.2, STM32Cube_FW_L0_V1.12.2, STM32Cube_FW_L5_V1.5.1, STM32Cube_FW_U0_V1.1.0, STM32Cube_FW_U5_V1.6.0, STM32Cube_FW_WB0_V1.0.0, STM32Cube_FW_WBA_V1.4.0, STM32Cube_FW_WB_V1.20.0, STM32Cube_FW_WL_V1.3.0, X-CUBE-ALGOBUILD_V1.4.0, X-CUBE-ALS_V1.0.2, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V2.0.0, X-CUBE-AZRTOS-H7RS_V1.0.0, X-CUBE-AZRTOS-H7_V3.2.0, X-CUBE-AZRTOS-L4_V2.0.0, X-CUBE-AZRTOS-L5_V1.1.0, X-CUBE-AZRTOS-WB_V2.0.0, X-CUBE-AZRTOS-WL_V2.0.0, X-CUBE-BLE1_V7.0.0, X-CUBE-BLE2_V3.3.0, X-CUBE-BLEMGR_V3.1.0, X-CUBE-EEPRMA1_V5.1.0, X-CUBE-FREERTOS_V1.2.0, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V10.0.0, X-CUBE-NFC4_V3.0.0, X-CUBE-NFC7_V1.0.1, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0, X-CUBE-TOF1_V3.4.1]
+2024-06-22 10:03:05,172 [INFO] ApiDb:240 - Found 297 in-development CPN: [B-G473E-ZEST1S, B-WB1M-WPAN1, B-WL5M-SUBG1, NUCLEO-C031C6, NUCLEO-H503RB, NUCLEO-H563ZI, NUCLEO-U545RE-Q, NUCLEO-U5A5ZJ-Q, NUCLEO-WBA52CG, STEVAL-PROTEUS1, STEVAL-STWINBX1, STM320518-EVAL, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32H503CBT6, STM32H503CBU6, STM32H503EBY6TR, STM32H503KBU6, STM32H503RBT6, STM32H562AGI6, STM32H562AII6, STM32H562IGK6, STM32H562IGT6, STM32H562IIK6, STM32H562IIT6, STM32H562RGT6, STM32H562RGV6, STM32H562RIT6, STM32H562RIV6, STM32H562VGT6, STM32H562VIT6, STM32H562ZGT6, STM32H562ZIT6, STM32H563AGI6, STM32H563AII3Q, STM32H563AII6, STM32H563IGK6, STM32H563IGT6, STM32H563IIK3Q, STM32H563IIK6, STM32H563IIT3Q, STM32H563IIT6, STM32H563MIY3QTR, STM32H563RGT6, STM32H563RGV6, STM32H563RIT6, STM32H563RIV6, STM32H563VGT6, STM32H563VIT3Q, STM32H563VIT6, STM32H563ZGT6, STM32H563ZIT3Q, STM32H563ZIT6, STM32H573AII3Q, STM32H573AII6, STM32H573I-DK, STM32H573IIK3Q, STM32H573IIK6, STM32H573IIT3Q, STM32H573IIT6, STM32H573MIY3QTR, STM32H573RIT6, STM32H573RIV6, STM32H573VIT3Q, STM32H573VIT6, STM32H573ZIT3Q, STM32H573ZIT6, STM32L4R5QGI6STR, STM32MP131AAE3, STM32MP131AAF3, STM32MP131AAG3, STM32MP131CAE3, STM32MP131CAF3, STM32MP131CAG3, STM32MP131DAE7, STM32MP131DAF7, STM32MP131DAG7, STM32MP131FAE7, STM32MP131FAF7, STM32MP131FAG7, STM32MP133AAE3, STM32MP133AAF3, STM32MP133AAG3, STM32MP133CAE3, STM32MP133CAF3, STM32MP133CAG3, STM32MP133DAE7, STM32MP133DAF7, STM32MP133DAG7, STM32MP133FAE7, STM32MP133FAF7, STM32MP133FAG7, STM32MP135AAE3, STM32MP135AAF3, STM32MP135AAG3, STM32MP135CAE3, STM32MP135CAF3, STM32MP135CAG3, STM32MP135DAE7, STM32MP135DAF7, STM32MP135DAG7, STM32MP135F-DK, STM32MP135FAE7, STM32MP135FAF7, STM32MP135FAF7T, STM32MP135FAF7U, STM32MP135FAG7, STM32U535CBT6, STM32U535CBT6Q, STM32U535CBU6, STM32U535CBU6Q, STM32U535CCT6, STM32U535CCT6Q, STM32U535CCU6, STM32U535CCU6Q, STM32U535CET6, STM32U535CET6Q, STM32U535CEU6, STM32U535CEU6Q, STM32U535JEY6QTR, STM32U535NCY6QTR, STM32U535NEY6QTR, STM32U535RBI6, STM32U535RBI6Q, STM32U535RBT6, STM32U535RBT6Q, STM32U535RCI6, STM32U535RCI6Q, STM32U535RCT6, STM32U535RCT6Q, STM32U535REI6, STM32U535REI6Q, STM32U535RET6, STM32U535RET6Q, STM32U535VCI6, STM32U535VCI6Q, STM32U535VCT6, STM32U535VCT6Q, STM32U535VEI6, STM32U535VEI6Q, STM32U535VET6, STM32U535VET6Q, STM32U545CET6, STM32U545CET6Q, STM32U545CEU6, STM32U545CEU6Q, STM32U545JEY6QTR, STM32U545NEY6QTR, STM32U545REI6, STM32U545REI6Q, STM32U545RET6, STM32U545RET6Q, STM32U545VEI6, STM32U545VEI6Q, STM32U545VET6, STM32U545VET6Q, STM32U595AIH6, STM32U595AIH6Q, STM32U595AJH6, STM32U595AJH6Q, STM32U595QII6, STM32U595QII6Q, STM32U595QJI6, STM32U595QJI6Q, STM32U595RIT6, STM32U595RIT6Q, STM32U595RJT6, STM32U595RJT6Q, STM32U595VIT6, STM32U595VIT6Q, STM32U595VJT6, STM32U595VJT6Q, STM32U595ZIT6, STM32U595ZIT6Q, STM32U595ZIY6QTR, STM32U595ZJT6, STM32U595ZJT6Q, STM32U595ZJY6QTR, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U599VIT6Q, STM32U599VJT6, STM32U599VJT6Q, STM32U599ZIT6Q, STM32U599ZIY6QTR, STM32U599ZJT6Q, STM32U599ZJY6QTR, STM32U5A5AJH6, STM32U5A5AJH6Q, STM32U5A5QJI6, STM32U5A5QJI6Q, STM32U5A5RJT6, STM32U5A5RJT6Q, STM32U5A5VJT6, STM32U5A5VJT6Q, STM32U5A5ZJT6, STM32U5A5ZJT6Q, STM32U5A5ZJY6QTR, STM32U5A9BJY6QTR, STM32U5A9J-DK, STM32U5A9NJH6Q, STM32U5A9VJT6Q, STM32U5A9ZJT6Q, STM32U5A9ZJY6QTR, STM32WB1MMCH6, STM32WBA52CEU6, STM32WBA52CEU6T, STM32WBA52CGU6, STM32WBA52CGU6T, STM32WL5MOCH6, STM32WL5MOCH6TR]
+2024-06-22 10:03:05,231 [INFO] DbMcus:216 - Found 4205 MCUs, 4205 are supported
+2024-06-22 10:03:05,236 [INFO] ApiDb:423 - Load user favorites file /home/dnk066/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-06-22 10:03:05,236 [INFO] ApiDb:427 - User favorites MCUs=[]
+2024-06-22 10:03:05,236 [INFO] DbMcus:222 - Set 0 / 0 favorites MCUs
+2024-06-22 10:03:06,228 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-06-22 10:03:06,229 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-06-22 10:03:06,229 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-06-22 10:03:06,229 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-06-22 10:03:06,229 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-06-22 10:03:06,229 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-06-22 10:03:06,230 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-06-22 10:03:06,231 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-06-22 10:03:06,232 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.18.0
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-06-22 10:03:06,233 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-06-22 10:03:06,234 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-06-22 10:03:06,235 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-06-22 10:03:06,236 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-06-22 10:03:06,237 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-06-22 10:03:06,238 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-06-22 10:03:06,238 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-06-22 10:03:06,238 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-06-22 10:03:06,238 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-06-22 10:03:06,238 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-06-22 10:03:07,687 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-22 10:03:07,690 [INFO] PinOutPanel:1499 - setPackage(STM32L476VGTx,LQFP100)
+2024-06-22 10:03:10,210 [INFO] UtilMem:75 - Before build in PCC Used Memory: 704141312 Bytes (904921088)
+2024-06-22 10:03:12,567 [INFO] UtilMem:75 - After build in PCC Used Memory: 755456464 Bytes (904921088)
+2024-06-22 10:03:12,731 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-06-22 10:03:12,864 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,864 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,864 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,865 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,865 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,865 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,866 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,866 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,866 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,866 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,867 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,867 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,867 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,868 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,868 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,868 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,868 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,869 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,869 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,870 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,870 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,871 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,871 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,872 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,872 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,873 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,873 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,873 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,874 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,875 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,875 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,876 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,876 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,877 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,877 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,878 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,878 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,879 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,879 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,879 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,879 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,880 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,880 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,880 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,880 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,880 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,881 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,881 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,881 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,882 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,882 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,882 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,884 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,886 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,887 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:12,889 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 10:03:13,425 [INFO] CADModel:165 - CPN selected for project levelSTM32L476VGT3
+2024-06-22 10:03:13,425 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-22 10:03:13,507 [INFO] OpenFileManager:328 - Restore cursor
+2024-06-22 10:03:26,852 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-06-22 10:04:06,210 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 758571568 Bytes (904921088)
+2024-06-22 10:04:07,517 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 792126000 Bytes (904921088)
+2024-06-22 10:04:09,515 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 733956848 Bytes (904921088)
+2024-06-22 10:04:11,052 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-06-22 10:04:11,052 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-22 10:04:11,052 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-06-22 10:04:11,053 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-22 10:04:11,054 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-22 10:04:11,055 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-22 10:04:12,189 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp_save
+2024-06-22 10:04:13,766 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp
+2024-06-22 10:04:14,002 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp_save
+2024-06-22 10:04:14,265 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp
+2024-06-22 10:04:14,450 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-06-22 10:04:14,472 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2024-06-22 10:04:14,762 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp
+2024-06-22 10:04:14,764 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2024-06-22 10:04:14,954 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp
+2024-06-22 10:04:14,958 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2024-06-22 10:04:15,475 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2024-06-22 10:04:15,479 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2024-06-22 10:04:15,768 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp
+2024-06-22 10:04:16,055 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:04:16,073 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:04:16,082 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c_save
+2024-06-22 10:04:16,469 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c
+2024-06-22 10:04:16,486 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h_save
+2024-06-22 10:04:16,630 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h
+2024-06-22 10:04:16,634 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h_save
+2024-06-22 10:04:16,970 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h
+2024-06-22 10:04:16,980 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c_save
+2024-06-22 10:04:17,126 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c
+2024-06-22 10:04:17,131 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h_save
+2024-06-22 10:04:17,353 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h
+2024-06-22 10:04:17,369 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c_save
+2024-06-22 10:04:17,725 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c
+2024-06-22 10:04:17,731 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h_save
+2024-06-22 10:04:17,942 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h
+2024-06-22 10:04:17,955 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c_save
+2024-06-22 10:04:18,278 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c
+2024-06-22 10:04:18,314 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c_save
+2024-06-22 10:04:18,687 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c
+2024-06-22 10:04:18,697 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h_save
+2024-06-22 10:04:18,921 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h
+2024-06-22 10:04:19,013 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-22 10:04:19,381 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c
+2024-06-22 10:04:19,384 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp_save
+2024-06-22 10:04:19,584 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp
+2024-06-22 10:04:19,594 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-22 10:04:19,803 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-22 10:04:20,020 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h_save
+2024-06-22 10:04:20,530 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h
+2024-06-22 10:04:20,534 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c_save
+2024-06-22 10:04:20,916 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c
+2024-06-22 10:04:23,586 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 339mS.
+2024-06-22 10:04:23,649 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-22 10:04:24,709 [INFO] ConfigFileManager:1483 - The Die is : DIE415
+2024-06-22 10:04:24,951 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-06-22 10:04:25,489 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-06-22 10:04:25,519 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-06-22 10:04:28,674 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-06-22 10:04:32,008 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 8357mS.
+2024-06-22 10:04:32,015 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 2mS.
+2024-06-22 10:04:32,017 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:09:07,899 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 703572704 Bytes (1073741824)
+2024-06-22 10:09:09,626 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 735029984 Bytes (1073741824)
+2024-06-22 10:09:11,585 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 681837616 Bytes (1073741824)
+2024-06-22 10:09:12,353 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-06-22 10:09:12,353 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-22 10:09:12,353 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-06-22 10:09:12,353 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-22 10:09:12,354 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-22 10:09:12,355 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-22 10:09:12,961 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp_save
+2024-06-22 10:09:13,295 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp
+2024-06-22 10:09:13,522 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp_save
+2024-06-22 10:09:13,741 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp
+2024-06-22 10:09:13,867 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-06-22 10:09:13,888 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2024-06-22 10:09:14,052 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp
+2024-06-22 10:09:14,055 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2024-06-22 10:09:14,269 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp
+2024-06-22 10:09:14,275 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2024-06-22 10:09:14,689 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2024-06-22 10:09:14,692 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2024-06-22 10:09:14,907 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp
+2024-06-22 10:09:15,104 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:09:15,126 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:09:15,152 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c_save
+2024-06-22 10:09:15,463 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c
+2024-06-22 10:09:15,466 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h_save
+2024-06-22 10:09:15,620 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h
+2024-06-22 10:09:15,623 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h_save
+2024-06-22 10:09:15,838 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h
+2024-06-22 10:09:15,845 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c_save
+2024-06-22 10:09:16,096 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c
+2024-06-22 10:09:16,101 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h_save
+2024-06-22 10:09:16,310 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h
+2024-06-22 10:09:16,313 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c_save
+2024-06-22 10:09:16,471 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c
+2024-06-22 10:09:16,481 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h_save
+2024-06-22 10:09:16,634 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h
+2024-06-22 10:09:16,638 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c_save
+2024-06-22 10:09:16,759 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c
+2024-06-22 10:09:16,770 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c_save
+2024-06-22 10:09:17,220 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c
+2024-06-22 10:09:17,224 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h_save
+2024-06-22 10:09:17,368 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h
+2024-06-22 10:09:17,409 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-22 10:09:17,559 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c
+2024-06-22 10:09:17,562 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp_save
+2024-06-22 10:09:17,665 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp
+2024-06-22 10:09:17,670 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-22 10:09:17,777 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-22 10:09:17,850 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h_save
+2024-06-22 10:09:17,964 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h
+2024-06-22 10:09:17,968 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c_save
+2024-06-22 10:09:18,295 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c
+2024-06-22 10:09:19,801 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 215mS.
+2024-06-22 10:09:19,821 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-22 10:09:20,565 [INFO] ConfigFileManager:1483 - The Die is : DIE415
+2024-06-22 10:09:26,565 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 6744mS.
+2024-06-22 10:09:26,565 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:09:26,568 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:33:22,266 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 831824016 Bytes (1073741824)
+2024-06-22 10:33:23,795 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 866946616 Bytes (1073741824)
+2024-06-22 10:33:25,833 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 832959296 Bytes (1073741824)
+2024-06-22 10:33:26,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-06-22 10:33:26,747 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-22 10:33:26,747 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-06-22 10:33:26,747 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-22 10:33:26,748 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-22 10:33:26,754 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-22 10:33:27,188 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp_save
+2024-06-22 10:33:27,417 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp
+2024-06-22 10:33:27,493 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp_save
+2024-06-22 10:33:27,758 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp
+2024-06-22 10:33:27,896 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-06-22 10:33:27,904 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2024-06-22 10:33:28,214 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp
+2024-06-22 10:33:28,216 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2024-06-22 10:33:28,342 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp
+2024-06-22 10:33:28,345 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2024-06-22 10:33:28,667 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2024-06-22 10:33:28,669 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2024-06-22 10:33:28,822 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp
+2024-06-22 10:33:28,948 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:33:28,959 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:33:28,965 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c_save
+2024-06-22 10:33:29,116 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c
+2024-06-22 10:33:29,118 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h_save
+2024-06-22 10:33:29,261 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h
+2024-06-22 10:33:29,264 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h_save
+2024-06-22 10:33:29,395 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h
+2024-06-22 10:33:29,399 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c_save
+2024-06-22 10:33:29,541 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c
+2024-06-22 10:33:29,546 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h_save
+2024-06-22 10:33:29,703 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h
+2024-06-22 10:33:29,706 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c_save
+2024-06-22 10:33:29,838 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c
+2024-06-22 10:33:29,840 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h_save
+2024-06-22 10:33:29,928 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h
+2024-06-22 10:33:29,930 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c_save
+2024-06-22 10:33:30,052 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c
+2024-06-22 10:33:30,061 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c_save
+2024-06-22 10:33:30,453 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c
+2024-06-22 10:33:30,456 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h_save
+2024-06-22 10:33:30,561 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h
+2024-06-22 10:33:30,598 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-22 10:33:30,851 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c
+2024-06-22 10:33:30,853 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp_save
+2024-06-22 10:33:30,983 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp
+2024-06-22 10:33:30,987 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-22 10:33:31,141 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-22 10:33:31,257 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h_save
+2024-06-22 10:33:31,378 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h
+2024-06-22 10:33:31,382 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c_save
+2024-06-22 10:33:31,588 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c
+2024-06-22 10:33:32,822 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 109mS.
+2024-06-22 10:33:32,834 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-22 10:33:33,628 [INFO] ConfigFileManager:1483 - The Die is : DIE415
+2024-06-22 10:33:39,067 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 6233mS.
+2024-06-22 10:33:39,068 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:33:39,070 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:45:42,455 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 805581904 Bytes (1073741824)
+2024-06-22 10:45:43,956 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 842282072 Bytes (1073741824)
+2024-06-22 10:45:46,117 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 670264112 Bytes (1073741824)
+2024-06-22 10:45:46,839 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-06-22 10:45:46,840 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-22 10:45:46,840 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-06-22 10:45:46,840 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-22 10:45:46,841 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-22 10:45:46,841 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-22 10:45:47,384 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp_save
+2024-06-22 10:45:47,532 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp
+2024-06-22 10:45:47,594 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp_save
+2024-06-22 10:45:47,721 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp
+2024-06-22 10:45:47,883 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-06-22 10:45:47,900 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2024-06-22 10:45:48,233 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp
+2024-06-22 10:45:48,235 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2024-06-22 10:45:48,339 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp
+2024-06-22 10:45:48,341 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2024-06-22 10:45:48,512 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2024-06-22 10:45:48,516 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2024-06-22 10:45:48,735 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp
+2024-06-22 10:45:48,841 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:45:48,852 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:45:48,859 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c_save
+2024-06-22 10:45:49,139 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c
+2024-06-22 10:45:49,144 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h_save
+2024-06-22 10:45:49,252 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h
+2024-06-22 10:45:49,254 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h_save
+2024-06-22 10:45:49,362 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h
+2024-06-22 10:45:49,365 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c_save
+2024-06-22 10:45:49,491 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c
+2024-06-22 10:45:49,493 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h_save
+2024-06-22 10:45:49,590 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h
+2024-06-22 10:45:49,592 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c_save
+2024-06-22 10:45:49,730 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c
+2024-06-22 10:45:49,732 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h_save
+2024-06-22 10:45:49,837 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h
+2024-06-22 10:45:49,839 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c_save
+2024-06-22 10:45:50,130 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c
+2024-06-22 10:45:50,144 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c_save
+2024-06-22 10:45:50,459 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c
+2024-06-22 10:45:50,461 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h_save
+2024-06-22 10:45:50,556 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h
+2024-06-22 10:45:50,587 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-22 10:45:50,755 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c
+2024-06-22 10:45:50,757 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp_save
+2024-06-22 10:45:50,852 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp
+2024-06-22 10:45:50,856 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-22 10:45:50,963 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-22 10:45:51,084 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h_save
+2024-06-22 10:45:51,184 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h
+2024-06-22 10:45:51,186 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c_save
+2024-06-22 10:45:51,347 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c
+2024-06-22 10:45:52,699 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 60mS.
+2024-06-22 10:45:52,704 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-22 10:45:53,663 [INFO] ConfigFileManager:1483 - The Die is : DIE415
+2024-06-22 10:45:58,705 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 6000mS.
+2024-06-22 10:45:58,705 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:45:58,707 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:51:02,451 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x283,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-06-22 10:51:15,970 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 837694432 Bytes (1073741824)
+2024-06-22 10:51:17,317 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 870200288 Bytes (1073741824)
+2024-06-22 10:51:19,890 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 704053840 Bytes (1073741824)
+2024-06-22 10:51:20,914 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-06-22 10:51:20,914 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-22 10:51:20,915 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-06-22 10:51:20,915 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-22 10:51:20,916 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-22 10:51:20,917 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-22 10:51:21,365 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp_save
+2024-06-22 10:51:21,804 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp
+2024-06-22 10:51:21,863 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp_save
+2024-06-22 10:51:22,061 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp
+2024-06-22 10:51:22,282 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-06-22 10:51:22,296 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2024-06-22 10:51:22,477 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp
+2024-06-22 10:51:22,479 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2024-06-22 10:51:22,621 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp
+2024-06-22 10:51:22,624 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2024-06-22 10:51:22,775 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2024-06-22 10:51:22,777 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2024-06-22 10:51:22,951 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp
+2024-06-22 10:51:23,104 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:51:23,121 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:51:23,133 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c_save
+2024-06-22 10:51:23,327 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c
+2024-06-22 10:51:23,330 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h_save
+2024-06-22 10:51:23,488 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h
+2024-06-22 10:51:23,492 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h_save
+2024-06-22 10:51:23,846 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h
+2024-06-22 10:51:23,867 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c_save
+2024-06-22 10:51:24,033 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c
+2024-06-22 10:51:24,036 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h_save
+2024-06-22 10:51:24,194 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h
+2024-06-22 10:51:24,199 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c_save
+2024-06-22 10:51:24,375 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c
+2024-06-22 10:51:24,378 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h_save
+2024-06-22 10:51:24,552 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h
+2024-06-22 10:51:24,556 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c_save
+2024-06-22 10:51:24,745 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c
+2024-06-22 10:51:24,755 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c_save
+2024-06-22 10:51:25,255 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c
+2024-06-22 10:51:25,263 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h_save
+2024-06-22 10:51:25,422 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h
+2024-06-22 10:51:25,475 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-22 10:51:25,730 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c
+2024-06-22 10:51:25,733 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp_save
+2024-06-22 10:51:25,902 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp
+2024-06-22 10:51:25,908 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-22 10:51:26,123 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-22 10:51:26,237 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h_save
+2024-06-22 10:51:26,428 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h
+2024-06-22 10:51:26,438 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c_save
+2024-06-22 10:51:26,768 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c
+2024-06-22 10:51:28,450 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 214mS.
+2024-06-22 10:51:28,456 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-22 10:51:29,615 [INFO] ConfigFileManager:1483 - The Die is : DIE415
+2024-06-22 10:51:35,195 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 6739mS.
+2024-06-22 10:51:35,196 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-22 10:51:35,198 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:54:49,748 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 779038840 Bytes (1073741824)
+2024-06-22 10:54:51,017 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 812066936 Bytes (1073741824)
+2024-06-22 10:54:53,168 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 913076392 Bytes (1073741824)
+2024-06-22 10:54:54,702 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-06-22 10:54:54,702 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-22 10:54:54,702 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-06-22 10:54:54,703 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-22 10:54:54,704 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-22 10:54:54,709 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-22 10:54:55,533 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp_save
+2024-06-22 10:54:56,031 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp
+2024-06-22 10:54:56,112 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp_save
+2024-06-22 10:54:56,350 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp
+2024-06-22 10:54:56,552 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-06-22 10:54:56,576 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2024-06-22 10:54:57,077 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp
+2024-06-22 10:54:57,088 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2024-06-22 10:54:57,275 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp
+2024-06-22 10:54:57,284 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2024-06-22 10:54:57,706 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2024-06-22 10:54:57,709 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2024-06-22 10:54:57,874 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp
+2024-06-22 10:54:58,063 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:54:58,075 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 10:54:58,089 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c_save
+2024-06-22 10:54:58,267 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c
+2024-06-22 10:54:58,273 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h_save
+2024-06-22 10:54:58,622 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h
+2024-06-22 10:54:58,625 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h_save
+2024-06-22 10:54:58,867 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h
+2024-06-22 10:54:58,870 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c_save
+2024-06-22 10:54:59,178 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c
+2024-06-22 10:54:59,195 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h_save
+2024-06-22 10:54:59,480 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h
+2024-06-22 10:54:59,483 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c_save
+2024-06-22 10:54:59,662 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c
+2024-06-22 10:54:59,667 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h_save
+2024-06-22 10:54:59,827 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h
+2024-06-22 10:54:59,829 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c_save
+2024-06-22 10:54:59,946 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c
+2024-06-22 10:54:59,957 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c_save
+2024-06-22 10:55:00,368 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c
+2024-06-22 10:55:00,371 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h_save
+2024-06-22 10:55:00,559 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h
+2024-06-22 10:55:00,589 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-22 10:55:00,783 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c
+2024-06-22 10:55:00,784 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp_save
+2024-06-22 10:55:00,923 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp
+2024-06-22 10:55:00,930 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-22 10:55:01,062 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-22 10:55:01,165 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h_save
+2024-06-22 10:55:01,363 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h
+2024-06-22 10:55:01,369 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c_save
+2024-06-22 10:55:01,597 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c
+2024-06-22 10:55:03,282 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 204mS.
+2024-06-22 10:55:03,285 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-22 10:55:04,623 [INFO] ConfigFileManager:1483 - The Die is : DIE415
+2024-06-22 10:55:10,282 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 6996mS.
+2024-06-22 10:55:10,283 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 10:55:10,285 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-06-22 11:39:36,583 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-22 11:39:36,585 [INFO] MainUpdater:2854 - connection check result : 10
+2024-06-22 11:39:36,672 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-22 11:39:36,673 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-22 11:39:36,809 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-06-22 11:39:36,809 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-06-22 11:39:36,810 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-06-22 11:39:36,816 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-22 11:39:36,850 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 806041464 Bytes (1073741824)
+2024-06-22 11:39:36,851 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-06-22 11:39:36,851 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-06-22 11:39:36,852 [INFO] OpenFileManager:308 - Change cursor
+2024-06-22 11:39:36,928 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-06-22 11:39:36,941 [INFO] Mcu:1937 - Initializing MCU STM32L476V(C-E-G)Tx STM32L476VGTx STM32L476VGT3
+2024-06-22 11:39:42,042 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-06-22 11:39:43,574 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-06-22 11:39:43,575 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-06-22 11:39:43,575 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-06-22 11:39:43,575 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-06-22 11:39:43,575 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,606 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,607 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,608 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,609 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,609 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,609 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,609 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,609 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,609 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,609 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-06-22 11:39:43,805 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-06-22 11:39:45,484 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-06-22 11:39:45,540 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-06-22 11:39:46,050 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 870621360 Bytes (1073741824)
+2024-06-22 11:39:46,132 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-06-22 11:39:46,132 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-06-22 11:39:46,133 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.1.0
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.2.0
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.2
+2024-06-22 11:39:46,134 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-06-22 11:39:46,135 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-06-22 11:39:46,135 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-06-22 11:39:46,135 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-06-22 11:39:46,135 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-06-22 11:39:46,135 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-06-22 11:39:46,135 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-06-22 11:39:46,135 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-06-22 11:39:46,136 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-06-22 11:39:46,138 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-06-22 11:39:46,139 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-06-22 11:39:46,139 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-06-22 11:39:46,139 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-06-22 11:39:46,139 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.18.0
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 9.0.0
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-06-22 11:39:46,140 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-06-22 11:39:46,141 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-06-22 11:39:46,142 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-06-22 11:39:46,143 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-06-22 11:39:46,144 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-06-22 11:39:46,144 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2024-06-22 11:39:46,144 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-06-22 11:39:46,144 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-06-22 11:39:46,144 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-06-22 11:39:46,144 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.0.0
+2024-06-22 11:39:46,144 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-06-22 11:39:46,145 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.6.0
+2024-06-22 11:39:46,146 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-06-22 11:39:46,146 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-06-22 11:39:47,487 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-06-22 11:39:47,491 [INFO] PinOutPanel:1499 - setPackage(STM32L476VGTx,LQFP100)
+2024-06-22 11:39:48,996 [INFO] UtilMem:75 - Before build in PCC Used Memory: 780323792 Bytes (1073741824)
+2024-06-22 11:39:49,818 [INFO] UtilMem:75 - After build in PCC Used Memory: 860015568 Bytes (1073741824)
+2024-06-22 11:39:49,960 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-06-22 11:39:50,058 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,060 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,060 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,061 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,064 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,064 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,064 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,065 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,066 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,066 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,066 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,067 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,068 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,069 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,069 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,070 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,070 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,071 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,071 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,071 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,072 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,072 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,072 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,072 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,073 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,074 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,074 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,074 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,074 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,074 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,075 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,075 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,075 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,075 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,076 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,078 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,078 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-06-22 11:39:50,263 [INFO] CADModel:165 - CPN selected for project levelSTM32L476VGT3
+2024-06-22 11:39:50,263 [INFO] CADModel:114 - Register for checkConnection events
+2024-06-22 11:39:50,339 [INFO] OpenFileManager:328 - Restore cursor
+2024-06-22 11:44:56,054 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 782007896 Bytes (1073741824)
+2024-06-22 11:45:02,978 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 816610904 Bytes (1073741824)
+2024-06-22 11:45:04,949 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 872191248 Bytes (1073741824)
+2024-06-22 11:45:06,026 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-06-22 11:45:06,026 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-22 11:45:06,026 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-06-22 11:45:06,026 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-22 11:45:06,027 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-22 11:45:06,033 [INFO] CodeGenerator:793 - code generatio: config db path: /opt/st/stm32cubeide_1.12.1/plugins/com.st.stm32cube.common.mx_6.8.1.202304191431//db/
+2024-06-22 11:45:06,556 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp_save
+2024-06-22 11:45:06,803 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/license.tmp
+2024-06-22 11:45:06,974 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp_save
+2024-06-22 11:45:07,617 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/gpio.tmp
+2024-06-22 11:45:07,875 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-06-22 11:45:07,912 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2024-06-22 11:45:08,144 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_vars.tmp
+2024-06-22 11:45:08,147 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2024-06-22 11:45:08,296 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_inc.tmp
+2024-06-22 11:45:08,298 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2024-06-22 11:45:08,507 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2024-06-22 11:45:08,510 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2024-06-22 11:45:08,885 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/usb_otg_fs_Msp.tmp
+2024-06-22 11:45:09,131 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 11:45:09,139 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-06-22 11:45:09,150 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c_save
+2024-06-22 11:45:09,344 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.c
+2024-06-22 11:45:09,348 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h_save
+2024-06-22 11:45:09,513 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usb_device.h
+2024-06-22 11:45:09,518 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h_save
+2024-06-22 11:45:09,693 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.h
+2024-06-22 11:45:09,702 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c_save
+2024-06-22 11:45:09,963 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/Target/usbd_conf.c
+2024-06-22 11:45:09,968 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h_save
+2024-06-22 11:45:10,170 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.h
+2024-06-22 11:45:10,174 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c_save
+2024-06-22 11:45:10,293 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_desc.c
+2024-06-22 11:45:10,297 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h_save
+2024-06-22 11:45:10,402 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.h
+2024-06-22 11:45:10,415 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c_save
+2024-06-22 11:45:10,719 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/USB_DEVICE/App/usbd_storage_if.c
+2024-06-22 11:45:10,728 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c_save
+2024-06-22 11:45:11,095 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_it.c
+2024-06-22 11:45:11,099 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h_save
+2024-06-22 11:45:11,246 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_it.h
+2024-06-22 11:45:11,277 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c_save
+2024-06-22 11:45:11,437 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/stm32l4xx_hal_msp.c
+2024-06-22 11:45:11,439 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp_save
+2024-06-22 11:45:11,607 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/MXTmpFiles/system.tmp
+2024-06-22 11:45:11,627 [INFO] CodeEngine:311 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h_save
+2024-06-22 11:45:11,793 [INFO] CodeEngine:335 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/stm32l4xx_hal_conf.h
+2024-06-22 11:45:11,859 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h_save
+2024-06-22 11:45:11,988 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Inc/main.h
+2024-06-22 11:45:11,990 [INFO] CodeEngine:255 - oldGeneratedFile, /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c_save
+2024-06-22 11:45:12,152 [INFO] CodeEngine:279 - Generated code: /home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device/Core/Src/main.c
+2024-06-22 11:45:13,547 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 203mS.
+2024-06-22 11:45:13,557 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-06-22 11:45:14,572 [INFO] ConfigFileManager:1483 - The Die is : DIE415
+2024-06-22 11:45:14,602 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-06-22 11:45:14,698 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-06-22 11:45:15,324 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2024-06-22 11:45:15,347 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-06-22 11:45:20,639 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 7081mS.
+2024-06-22 11:45:20,641 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 2mS.
+2024-06-22 11:45:20,645 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-06-22 12:30:20,634 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SWT SessionManagerDBus: Failed to UnregisterClient: GDBus.Error:org.xfce.SessionManager.Error.General: Client with id of '/org/xfce/SessionClients/org_eclipse_swt_Application' was not found
+2024-06-22 12:30:20,943 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

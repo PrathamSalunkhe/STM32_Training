@@ -3,4 +3,19 @@
 	<section name="ExternalProjectImportWizard">
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
 	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/dnk066/Pratham/Sensor_Drivers/STM32-master/STM32F767ZI/USB/USB_DEVICE_MSC/USB_DEVICE_FLASH"/>
+			<item value="/home/dnk066/Desktop/19_USB_MSC_FLASH"/>
+			<item value="/home/dnk066/Desktop/19_USB_MSC_FLASH_1"/>
+			<item value="/home/dnk066/Pratham/STM32_Training/Workspace/09_USB/05_USB_MSC_Device"/>
+			<item value="/home/dnk066/Pratham/STM32_Training/Workspace/08_Power_Saving_Modes"/>
+			<item value="/home/dnk066/Pratham/STM32_Training/Workspace/09_USB/03_USB_HID_Keyboard"/>
+			<item value="/home/dnk066/Pratham/STM32_Training/Workspace/09_USB/03_USB_HID_Keyboard/Drivers"/>
+		</list>
+	</section>
 </section>

@@ -1,0 +1,10 @@
+10:47:24 **** Incremental Build of configuration Debug for project 19_USB_MSC_FLASH ****
+make -j4 all 
+arm-none-eabi-size   19_USB_MSC_FLASH.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37756	    296	   4200	  42252	   a50c	19_USB_MSC_FLASH.elf
+Finished building: default.size.stdout
+ 
+
+10:47:25 Build Finished. 0 errors, 0 warnings. (took 451ms)
+

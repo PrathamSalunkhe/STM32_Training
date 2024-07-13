@@ -1,0 +1,173 @@
+14:32:14 **** Incremental Build of configuration Debug for project 003_Protimer_State_Handler ****
+make -j4 all 
+arm-none-eabi-size   003_Protimer_State_Handler.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23016	    120	   1840	  24976	   6190	003_Protimer_State_Handler.elf
+Finished building: default.size.stdout
+ 
+14:32:42 **** Incremental Build of configuration Debug for project 003_Protimer_State_Handler ****
+make -j4 all 
+arm-none-eabi-size   003_Protimer_State_Handler.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23016	    120	   1840	  24976	   6190	003_Protimer_State_Handler.elf
+Finished building: default.size.stdout
+ 
+14:53:53 **** Incremental Build of configuration Debug for project 003_Protimer_State_Handler ****
+make -j4 all 
+arm-none-eabi-size   003_Protimer_State_Handler.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23016	    120	   1840	  24976	   6190	003_Protimer_State_Handler.elf
+Finished building: default.size.stdout
+ 
+15:11:56 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23088	    120	   1840	  25048	   61d8	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+15:24:18 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L4R5xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "002_ProTimer.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/dnk066/Pratham/STM32_Training/Workspace/10_STATE_MACHINE/002_ProTimer/STM32L4R5ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="002_ProTimer.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 002_ProTimer.elf
+ 
+arm-none-eabi-size   002_ProTimer.elf 
+arm-none-eabi-objdump -h -S  002_ProTimer.elf  > "002_ProTimer.list"
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+Finished building: 002_ProTimer.list
+ 
+15:24:22 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+15:27:12 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+15:30:51 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+15:43:01 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L4R5xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "002_ProTimer.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/dnk066/Pratham/STM32_Training/Workspace/10_STATE_MACHINE/002_ProTimer/STM32L4R5ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="002_ProTimer.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 002_ProTimer.elf
+ 
+arm-none-eabi-size   002_ProTimer.elf 
+arm-none-eabi-objdump -h -S  002_ProTimer.elf  > "002_ProTimer.list"
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+Finished building: 002_ProTimer.list
+ 
+15:43:40 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+15:43:42 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+16:09:42 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+16:44:00 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L4R5xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c:112:1: warning: data definition has no type or storage class
+  112 | current_time = millis();
+      | ^~~~~~~~~~~~
+../Core/Src/main.c:112:1: warning: type defaults to 'int' in declaration of 'current_time' [-Wimplicit-int]
+../Core/Src/main.c:112:1: error: conflicting types for 'current_time'
+../Core/Src/main.c:110:17: note: previous declaration of 'current_time' was here
+  110 | static uint32_t current_time;
+      |                 ^~~~~~~~~~~~
+../Core/Src/main.c:112:16: warning: implicit declaration of function 'millis' [-Wimplicit-function-declaration]
+  112 | current_time = millis();
+      |                ^~~~~~
+../Core/Src/main.c:112:16: error: initializer element is not constant
+../Core/Src/main.c:404:10: error: conflicting types for 'millis'
+  404 | uint32_t millis(void)
+      |          ^~~~~~
+../Core/Src/main.c:112:16: note: previous implicit declaration of 'millis' was here
+  112 | current_time = millis();
+      |                ^~~~~~
+../Core/Src/main.c:110:17: warning: 'current_time' defined but not used [-Wunused-variable]
+  110 | static uint32_t current_time;
+      |                 ^~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
+16:45:07 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L4R5xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "002_ProTimer.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/dnk066/Pratham/STM32_Training/Workspace/10_STATE_MACHINE/002_ProTimer/STM32L4R5ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="002_ProTimer.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 002_ProTimer.elf
+ 
+arm-none-eabi-size   002_ProTimer.elf 
+arm-none-eabi-objdump -h -S  002_ProTimer.elf  > "002_ProTimer.list"
+   text	   data	    bss	    dec	    hex	filename
+  23108	    120	   1848	  25076	   61f4	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+Finished building: 002_ProTimer.list
+ 
+16:45:35 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23108	    120	   1848	  25076	   61f4	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+16:48:01 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23108	    120	   1848	  25076	   61f4	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+16:48:16 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L4R5xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "002_ProTimer.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/dnk066/Pratham/STM32_Training/Workspace/10_STATE_MACHINE/002_ProTimer/STM32L4R5ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="002_ProTimer.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 002_ProTimer.elf
+ 
+arm-none-eabi-size   002_ProTimer.elf 
+arm-none-eabi-objdump -h -S  002_ProTimer.elf  > "002_ProTimer.list"
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+Finished building: 002_ProTimer.list
+ 
+16:48:24 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 

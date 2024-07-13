@@ -1,0 +1,10 @@
+16:48:24 **** Incremental Build of configuration Debug for project 002_ProTimer ****
+make -j4 all 
+arm-none-eabi-size   002_ProTimer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23100	    120	   1848	  25068	   61ec	002_ProTimer.elf
+Finished building: default.size.stdout
+ 
+
+16:48:24 Build Finished. 0 errors, 0 warnings. (took 495ms)
+

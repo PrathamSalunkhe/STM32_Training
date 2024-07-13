@@ -1,0 +1,10 @@
+14:53:53 **** Incremental Build of configuration Debug for project 003_Protimer_State_Handler ****
+make -j4 all 
+arm-none-eabi-size   003_Protimer_State_Handler.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23016	    120	   1840	  24976	   6190	003_Protimer_State_Handler.elf
+Finished building: default.size.stdout
+ 
+
+14:53:54 Build Finished. 0 errors, 0 warnings. (took 433ms)
+

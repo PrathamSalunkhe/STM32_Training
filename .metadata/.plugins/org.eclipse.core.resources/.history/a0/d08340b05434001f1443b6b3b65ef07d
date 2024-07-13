@@ -1,0 +1,386 @@
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/**
+ @code
+  ___ _____ _   ___ _  _____ ___  ___  ___ ___
+ / __|_   _/_\ / __| |/ / __/ _ \| _ \/ __| __|
+ \__ \ | |/ _ \ (__| ' <| _| (_) |   / (__| _|
+ |___/ |_/_/ \_\___|_|\_\_| \___/|_|_\\___|___|
+ embedded.connectivity.solutions.==============
+ @endcode
+
+ @file
+ @copyright  STACKFORCE GmbH, Germany, www.stackforce.de
+ @author     STACKFORCE
+ @brief      This file covers the implementation of the serial interface.
+*/
+
+#include <stdint.h>
+#include <stdbool.h>
+#include <string.h>
+
+#include "target_config.h"
+#include "sf_app_hal_lp.h"
+#include "sf_stack_hal_serial.h"
+#include "sf_app_hal_system.h"
+
+#include "stm32wlxx.h"
+#include "stm32wlxx_ll_lpuart.h"
+
+
+/*==============================================================================
+                            CONFIGURATION
+==============================================================================*/
+/*! Default baudrate used for the uart */
+#define UART_DEFAULT_BAUD               9600U
+
+/*==============================================================================
+                            MACROS
+==============================================================================*/
+#ifndef UART_TIMEOUT
+#define UART_TIMEOUT                    1000U
+#endif
+
+#define UART_WRITE(x, y)                HAL_UART_Transmit(&gs_uartHandler, x, y, UART_TIMEOUT)
+#define UART_READ(x)                    HAL_UART_Receive_IT(&gs_uartHandler, x, 1U)
+
+#ifndef UART_BUFFER_RX_LEN
+#define UART_BUFFER_RX_LEN              40U
+#endif
+
+#ifndef MEMSET
+  /* Writes bytes into a specific memory, using standard lib. */
+  #define MEMSET(x,y,z)                 memset((x), (y), (z))
+#endif /* MEMSET */
+
+#define UART_ISR                        LPUART1_IRQHandler
+#define LPUART1_EXTI_ENABLE_IT()        (EXTI->IMR1 |= EXTI_IMR1_IM28)
+#define USART_INSTANCE                  LPUART1
+#define UART_CLK_ENABLE()               __LPUART1_CLK_ENABLE()
+#define UART_SET_INT_PRIORITY()         HAL_NVIC_SetPriority(LPUART1_IRQn, 0, 1)
+#define UART_ENABLE_IRQ()               HAL_NVIC_EnableIRQ(LPUART1_IRQn)
+#define UART_DISABLE_IRQ()              HAL_NVIC_DisableIRQ(LPUART1_IRQn)
+#define UART_PIN_CLK_ENABLE()           __GPIOA_CLK_ENABLE()
+#define USART_PORT                      GPIOA
+#define USART_TX_PIN                    GPIO_PIN_2
+#define USART_RX_PIN                    GPIO_PIN_3
+#define UART_AFX                        GPIO_AF8_LPUART1
+
+/*==============================================================================
+                            VARIABLES
+==============================================================================*/
+/*! Input ring buffer. */
+static uint8_t gc_uart_bufferRx[UART_BUFFER_RX_LEN];
+/*! Pointer to the Rx ring buffer's current write position */
+static uint8_t *gpc_uart_bufferRxWrite;
+/*! Pointer to the Rx ring buffer's current read position */
+static uint8_t *gpc_uart_bufferRxRead;
+/*! Number of bytes in the input buffer. */
+volatile uint16_t gi_uart_bufferRxLen;
+
+UART_HandleTypeDef gs_uartHandler;
+bool gb_reInitUart;
+/*==============================================================================
+                            FUNCTION PROTOTYPES
+==============================================================================*/
+static void loc_resetUartBuffer(void);
+static uint16_t loc_countBufferElements(uint8_t* pWrite, uint8_t* pRead,
+                                        uint8_t* pBuffer, uint16_t i_bufLen );
+/*============================================================================*/
+/*!
+ * \brief  Init the low level hardware
+ */
+/*============================================================================*/
+static void loc_uartMspInit(void);
+
+/*==============================================================================
+                          LOCAL  FUNCTIONS
+==============================================================================*/
+/*============================================================================*/
+/*!
+ * \brief Initializes the buffer variables.
+ */
+/*============================================================================*/
+static void loc_resetUartBuffer(void)
+{
+  /* Init RX buffer vars. */
+  MEMSET(gc_uart_bufferRx, 0U, UART_BUFFER_RX_LEN);
+  gpc_uart_bufferRxWrite = gc_uart_bufferRx;
+  gpc_uart_bufferRxRead = gc_uart_bufferRx;
+} /* loc_resetUartBuffer() */
+
+/*============================================================================*/
+/*!
+ * \brief Calculates the number of bytes in a buffer.
+ *
+ * \param pWrite Write pointer of the buffer
+ * \param pRead Read pointer of the buffer
+ * \param pBuffer Pointer of the buffer
+ * \param i_bufLen Maximum length of the buffer
+ */
+/*============================================================================*/
+static uint16_t loc_countBufferElements( uint8_t* pWrite, uint8_t* pRead,
+                                         uint8_t* pBuffer, uint16_t i_bufLen )
+{
+  uint16_t i_cnt = 0U;
+
+  if(pWrite > pRead)
+  {
+    i_cnt = pWrite - pRead;
+  }
+  else if(pWrite < pRead)
+  {
+    i_cnt = ((pBuffer + i_bufLen) - pRead) + (pWrite - pBuffer);
+  }
+  else
+  {
+    i_cnt = 0U;
+  }/* if...else */
+
+  return i_cnt;
+} /* loc_countBufferElements() */
+
+/*============================================================================*/
+/*! loc_uartMspInit() */
+/*============================================================================*/
+static void loc_uartMspInit(void)
+{
+  RCC_PeriphCLKInitTypeDef PeriphClkInit = {0};
+
+  PeriphClkInit.PeriphClockSelection = RCC_PERIPHCLK_LPUART1;
+  PeriphClkInit.Lpuart1ClockSelection = RCC_LPUART1CLKSOURCE_HSI;
+
+  if (HAL_RCCEx_PeriphCLKConfig(&PeriphClkInit) != HAL_OK)
+  {
+    gb_reInitUart = true;
+  }
+
+  UART_CLK_ENABLE();
+  UART_SET_INT_PRIORITY();
+  UART_ENABLE_IRQ();
+
+  /* Unmask wakeup with Interrupt request from LPUART1 */
+  LPUART1_EXTI_ENABLE_IT();
+}/*! loc_uartMspInit() */
+
+/*==============================================================================
+                            FUNCTIONS
+==============================================================================*/
+
+/*============================================================================*/
+/*! sf_stack_hal_serial_init() */
+/*============================================================================*/
+bool sf_stack_hal_serial_init(void)
+{
+  bool b_return = false;
+  GPIO_InitTypeDef GPIO_InitStruct;
+
+  gb_reInitUart = false;
+
+  /* Reset buffers. */
+  loc_resetUartBuffer();
+
+  /*! Init the Rx-buffer variables. */
+  gpc_uart_bufferRxWrite = gc_uart_bufferRx;
+  gpc_uart_bufferRxRead = gc_uart_bufferRx;
+
+  UART_PIN_CLK_ENABLE();
+  GPIO_InitStruct.Pin = USART_TX_PIN | USART_RX_PIN;
+  GPIO_InitStruct.Mode = GPIO_MODE_AF_PP;
+  GPIO_InitStruct.Pull = GPIO_PULLUP;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  GPIO_InitStruct.Alternate = UART_AFX;
+  HAL_GPIO_Init(USART_PORT, &GPIO_InitStruct);
+
+  loc_uartMspInit();
+
+  gs_uartHandler.Instance = USART_INSTANCE;
+  gs_uartHandler.Init.BaudRate = UART_DEFAULT_BAUD;
+  gs_uartHandler.Init.WordLength = UART_WORDLENGTH_8B;
+  gs_uartHandler.Init.StopBits = UART_STOPBITS_1;
+  gs_uartHandler.Init.Parity = UART_PARITY_NONE;
+  gs_uartHandler.Init.Mode = UART_MODE_TX_RX;
+  gs_uartHandler.Init.HwFlowCtl = UART_HWCONTROL_NONE;
+  gs_uartHandler.Init.OverSampling = UART_OVERSAMPLING_16;
+  gs_uartHandler.Init.OneBitSampling = UART_ONE_BIT_SAMPLE_DISABLE;
+  gs_uartHandler.AdvancedInit.AdvFeatureInit = UART_ADVFEATURE_NO_INIT;
+  #if (UART_INTERFACE == USE_LPUART1)
+  gs_uartHandler.FifoMode = UART_FIFOMODE_DISABLE;
+  #endif /* (UART_INTERFACE == USE_LPUART1) */
+  if (HAL_UART_Init(&gs_uartHandler) == HAL_OK)
+  {
+    b_return = true;
+  }/* if */
+
+  if (HAL_UARTEx_SetTxFifoThreshold(&gs_uartHandler, UART_TXFIFO_THRESHOLD_1_8) != HAL_OK)
+  {
+    b_return = false;
+  }
+  if (HAL_UARTEx_SetRxFifoThreshold(&gs_uartHandler, UART_RXFIFO_THRESHOLD_1_8) != HAL_OK)
+  {
+    b_return = false;
+  }
+  if (HAL_UARTEx_DisableFifoMode(&gs_uartHandler) != HAL_OK)
+  {
+    b_return = false;
+  }
+  LL_LPUART_EnableIT_WKUP(LPUART1);
+  HAL_UARTEx_EnableStopMode(&gs_uartHandler);
+
+  if(true == b_return)
+  {
+    /* Enable reception. */
+    if( UART_READ(gpc_uart_bufferRxWrite) != HAL_OK )
+    {
+      b_return = false;
+      gb_reInitUart = true;
+    } /* if */
+  }
+  return b_return;
+} /* sf_stack_hal_serial_init() */
+
+/*============================================================================*/
+/* sf_stack_hal_serial_write() */
+/*============================================================================*/
+uint16_t sf_stack_hal_serial_write(uint8_t *pc_data, uint16_t i_len)
+{
+  if(!pc_data || (0U == i_len))
+  {
+    return 0U;
+  }
+
+  if(UART_WRITE(pc_data, i_len) != HAL_OK)
+  {
+    gb_reInitUart = true;
+  }/* if */
+
+  return i_len;
+} /* sf_stack_hal_serial_write() */
+
+/*============================================================================*/
+/* sf_stack_hal_serial_read() */
+/*============================================================================*/
+uint16_t sf_stack_hal_serial_read(uint8_t *pc_data, uint16_t i_len)
+{
+  uint16_t i;
+
+  /*! Read from Rx-ringbuffer until i_len or UART_BUFFER_RX_LEN is reached. */
+  for(i = 0U; (i < i_len) && (0U < sf_stack_hal_serial_cntRxBytes()); i++)
+  {
+    /*! Write to the specified data pointer and increase the read pointer. */
+    pc_data[i] = *gpc_uart_bufferRxRead++;
+    /*! Check for an overflow of the read pointer and adjust if required. */
+    if(gpc_uart_bufferRxRead == &gc_uart_bufferRx[UART_BUFFER_RX_LEN])
+    {
+      gpc_uart_bufferRxRead = gc_uart_bufferRx;
+    } /* if */
+  }/* for */
+
+  return i;
+} /* sf_stack_hal_serial_read() */
+
+/*============================================================================*/
+/* sf_stack_hal_serial_cntRxBytes() */
+/*============================================================================*/
+uint16_t sf_stack_hal_serial_cntRxBytes(void)
+{
+  return loc_countBufferElements(gpc_uart_bufferRxWrite, gpc_uart_bufferRxRead,
+                                 gc_uart_bufferRx, UART_BUFFER_RX_LEN);
+} /* sf_stack_hal_serial_cntRxBytes() */
+
+/*============================================================================*/
+/* sf_stack_hal_serial_run() */
+/*============================================================================*/
+void sf_stack_hal_serial_run(void)
+{
+  if(gb_reInitUart)
+  {
+    /* In case of an error we will reinit the uart */
+    if(sf_stack_hal_serial_init() == true)
+    {
+      gb_reInitUart = false;
+    }/* if */
+  }/* if */
+}/* sf_stack_hal_serial_run() */
+
+/*============================================================================*/
+/* sf_stack_hal_serial_isBusy() */
+/*============================================================================*/
+bool sf_stack_hal_serial_isBusy(void)
+{
+  return false;
+}/* sf_stack_hal_serial_isBusy() */
+
+/*==============================================================================
+                            INTERRUPTS
+==============================================================================*/
+
+/*============================================================================*/
+/* HAL_UART_RxCpltCallback() */
+/*============================================================================*/
+//void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
+//{
+//  /*! Increase the number of bytes in Rx-ringbuffer. */
+//  gpc_uart_bufferRxWrite++;
+//
+//  /*! Check for an overflow of the read pointer and adjust if required. */
+//  if(gpc_uart_bufferRxWrite == &gc_uart_bufferRx[UART_BUFFER_RX_LEN])
+//  {
+//    gpc_uart_bufferRxWrite = gc_uart_bufferRx;
+//  } /* if */
+//
+//  /* Enable reception again. */
+//  if(UART_READ(gpc_uart_bufferRxWrite) != HAL_OK)
+//  {
+//    gb_reInitUart = true;
+//  }/* if */
+//
+//  /* Leave sleep mode */
+//  sf_app_hal_system_clockConfig();
+//
+//  return;
+//} /* HAL_UART_RxCpltCallback() */
+
+
+void sf_Mbus_Uart_Callback(void)
+{
+	  /*! Increase the number of bytes in Rx-ringbuffer. */
+	  gpc_uart_bufferRxWrite++;
+
+	  /*! Check for an overflow of the read pointer and adjust if required. */
+	  if(gpc_uart_bufferRxWrite == &gc_uart_bufferRx[UART_BUFFER_RX_LEN])
+	  {
+	    gpc_uart_bufferRxWrite = gc_uart_bufferRx;
+	  } /* if */
+
+	  /* Enable reception again. */
+	  if(UART_READ(gpc_uart_bufferRxWrite) != HAL_OK)
+	  {
+	    gb_reInitUart = true;
+	  }/* if */
+
+	  /* Leave sleep mode */
+	  sf_app_hal_system_clockConfig();
+}
+/*============================================================================*/
+/* HAL_UART_ErrorCallback() */
+/*============================================================================*/
+void HAL_UART_ErrorCallback(UART_HandleTypeDef *huart)
+{
+  UART_READ(gpc_uart_bufferRxWrite);
+} /* HAL_UART_ErrorCallback() */
+
+/*============================================================================*/
+/* USARTx_IRQHandler() */
+/*============================================================================*/
+void UART_ISR(void)
+{
+  sf_app_hal_system_clockConfig();
+  HAL_UART_IRQHandler(&gs_uartHandler);
+} /* UART_ISR() */
+
+#ifdef __cplusplus
+}
+#endif

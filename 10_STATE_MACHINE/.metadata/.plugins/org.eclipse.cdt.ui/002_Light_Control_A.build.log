@@ -1,0 +1,10 @@
+10:45:04 **** Incremental Build of configuration Debug for project 002_Light_Control_A ****
+make -j4 all 
+arm-none-eabi-size   002_Light_Control_A.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17036	     20	   1868	  18924	   49ec	002_Light_Control_A.elf
+Finished building: default.size.stdout
+ 
+
+10:45:04 Build Finished. 0 errors, 0 warnings. (took 434ms)
+

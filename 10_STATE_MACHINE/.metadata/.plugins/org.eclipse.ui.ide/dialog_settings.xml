@@ -9,6 +9,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/dnk066/Pratham/Sensor_Drivers/i2c_slave"/>
 			<item value="/home/dnk066/Pratham/STM32_Training/Workspace/09_USB/02_USB_HID_Mouse"/>
 		</list>
 	</section>

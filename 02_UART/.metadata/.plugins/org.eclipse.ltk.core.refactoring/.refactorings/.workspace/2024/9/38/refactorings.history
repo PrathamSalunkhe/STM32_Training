@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Uart_Single_Wire_Protocol_1&apos;" deleteContents="true" description="Delete resource &apos;Uart_Single_Wire_Protocol_1&apos;" element1="/Uart_Single_Wire_Protocol_1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1726655209391"/>
+</session>
